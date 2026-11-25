@@ -1,0 +1,54 @@
+{
+  "_comment": "战斗技能点名表（A2）。格式：\"<dataId>\": [\"技能1\"..\"技能5\"]。loadout.apply_skills() 只按这里点名设 5 个战斗技（mod setSkills），没写到的 dataId 一律不动（不猜）。",
+  "_source": "值＝A1 侦察到的**游戏当前给的那 5 个**（logs/技能侦察.out，2026-11-23 06:07:51 combat_arena_city_story_cultist rnd=0）；20 个 id 全部在 db/skills_full.json 里离线核过。",
+  "_note": "这一版是'把现状写死'：A2 每局重放同一套，防止换道途/升级后技能漂移，同时给以后换技能留一个明确落点。**不是**我替你选的新流派；要换，从对应 _alternatives 里挑一个 id 改到英雄那一行即可。",
+  "_pool_note": "每人 14 个技能（8 已装 = 5 战斗技 + *_move + pass_heal + pass_stress，另 6 个未装）。_pool 是 A1 原样快照，test_loadout 用它离线验'点名的 5 个必须在这 14 个里'。",
+  "_pool": {
+    "man_at_arms": ["maa_crush_p1", "maa_rampart", "maa_defender", "maa_bolster", "maa_hold_the_line", "maa_move", "pass_heal", "pass_stress", "maa_bellow_p1", "maa_retribution_p1", "maa_command_p1", "maa_stand_fast_p1", "maa_courageous_abandon", "maa_strategic_withdrawal"],
+    "grave_robber": ["gr_pick_to_the_face", "gr_thrown_dagger_p1", "gr_flashing_daggers_p1", "gr_poison_dart", "gr_absinthe_p1", "gr_move", "pass_heal", "pass_stress", "gr_dead_of_night", "gr_glint_in_the_dark", "gr_lunge", "gr_pirouette", "gr_repartee_p1", "gr_shadow_fade"],
+    "plague_doctor": ["pd_noxious_blast_p2", "pd_blinding_gas", "pd_incision", "pd_battlefield_medicine", "pd_ounce_of_prevention", "pd_move", "pass_heal", "pass_stress", "pd_plague_grenade_p2", "pd_emboldening_vapours", "pd_disorienting_blast_p2", "pd_indiscriminate_science", "pd_cause_of_death_p2", "pd_magnesium_rain_p2"],
+    "highwayman": ["hwm_wicked_slice", "hwm_pistol_shot", "hwm_duelists_advance", "hwm_tracking_shot", "hwm_take_aim", "hwm_move", "pass_heal", "pass_stress", "hwm_point_blank_shot", "hwm_grapeshot_blast", "hwm_open_vein", "hwm_double_tap", "hwm_highway_robbery", "hwm_double_cross"],
+    "leper": ["lep_chop", "lep_purge", "lep_withstand", "lep_solemnity", "lep_reflection", "lep_move", "pass_heal", "pass_stress", "lep_hew", "lep_revenge", "lep_intimidate", "lep_ruin", "lep_break", "lep_stagger"],
+    "vestal": ["ves_hand_of_light", "ves_illumination", "ves_judgement", "ves_divine_grace", "ves_blessing_of_fortitude", "ves_move", "pass_heal", "pass_stress", "ves_ministrations", "ves_mace_bash", "ves_sanctuary", "ves_blessing_of_light", "ves_divine_comfort", "ves_mantra"]
+  },
+  "_alternatives": {
+    "man_at_arms": [
+      "maa_bellow_p1（无伤害标签 maa_bellow，吼叫/减益）",
+      "maa_retribution_p1（maa_retribution，反击向）",
+      "maa_command_p1（maa_command，指挥/增益）",
+      "maa_stand_fast_p1（maa_stand_fast，站桩向）",
+      "maa_courageous_abandon dmg=6.0 crit=0.1 melee",
+      "maa_strategic_withdrawal dmg=3.0 crit=0.05 melee"
+    ],
+    "grave_robber": [
+      "gr_dead_of_night（无伤害数据）",
+      "gr_glint_in_the_dark dmg=4.0 crit=0.05 ranged",
+      "gr_lunge dmg=5.0 crit=0.2 melee",
+      "gr_pirouette dmg=4.0 crit=0.1 ranged",
+      "gr_repartee_p1（gr_repartee，反击向）",
+      "gr_shadow_fade（无伤害数据，位移向）"
+    ],
+    "plague_doctor": [
+      "pd_plague_grenade_p2 crit=0.1 ranged（腐蚀）",
+      "pd_emboldening_vapours（增益向）",
+      "pd_disorienting_blast_p2 dmg=2.0 crit=0.05 ranged",
+      "pd_indiscriminate_science（heal）",
+      "pd_cause_of_death_p2 dmg=5.0 crit=0.1 melee",
+      "pd_magnesium_rain_p2 dmg=2.0 crit=0.1 ranged"
+    ],
+    "highwayman": [
+      "hwm_point_blank_shot dmg=6.0 crit=0.1 ranged",
+      "hwm_grapeshot_blast dmg=3.0 crit=0.05 ranged",
+      "hwm_open_vein dmg=3.0 crit=0.05 melee",
+      "hwm_double_tap dmg=4.0 crit=0.05 ranged",
+      "hwm_highway_robbery crit=0.05 melee",
+      "hwm_double_cross dmg=2.0 crit=0.05 melee"
+    ]
+  },
+  "man_at_arms": ["maa_crush_p1", "maa_rampart", "maa_defender", "maa_bolster", "maa_hold_the_line"],
+  "grave_robber": ["gr_pick_to_the_face", "gr_thrown_dagger_p1", "gr_flashing_daggers_p1", "gr_poison_dart", "gr_absinthe_p1"],
+  "plague_doctor": ["pd_noxious_blast_p2", "pd_blinding_gas", "pd_incision", "pd_battlefield_medicine", "pd_ounce_of_prevention"],
+  "highwayman": ["hwm_wicked_slice", "hwm_pistol_shot", "hwm_duelists_advance", "hwm_tracking_shot", "hwm_take_aim"],
+  "leper": ["lep_chop", "lep_purge", "lep_solemnity", "lep_ruin", "lep_stagger"],
+  "vestal": ["ves_hand_of_light", "ves_illumination", "ves_judgement", "ves_divine_grace", "ves_blessing_of_fortitude"]
+}

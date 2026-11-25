@@ -1,0 +1,1721 @@
+[
+ {
+  "id": "trinket_ancestors_coat",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "ancestral",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_ancestors_coat_01"
+ },
+ {
+  "id": "trinket_ancestors_mustache_cream",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "ancestral",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_ancestors_mustache_cream_01"
+ },
+ {
+  "id": "trinket_ancestors_pistol",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "ancestral",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_ancestors_pistol_01"
+ },
+ {
+  "id": "trinket_antiq_celebrated_chalice",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_antiq_celebrated_chalice_01"
+ },
+ {
+  "id": "trinket_antiq_clarifying_carcanet",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_antiq_clarifying_carcanet_01"
+ },
+ {
+  "id": "trinket_antiq_cleansing_clasp",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_antiq_cleansing_clasp_01"
+ },
+ {
+  "id": "trinket_antiq_shimmering_crown",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_antiq_shimmering_crown_01"
+ },
+ {
+  "id": "trinket_cave_bone_mallet",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_bone_mallet_01"
+ },
+ {
+  "id": "trinket_cave_covert_cloak",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_covert_cloak_01"
+ },
+ {
+  "id": "trinket_cave_goading_gargoyle",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_goading_gargoyle_01"
+ },
+ {
+  "id": "trinket_cave_peculiar_pods",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_peculiar_pods_01"
+ },
+ {
+  "id": "trinket_cave_pig_sticker",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_pig_sticker_01"
+ },
+ {
+  "id": "trinket_cave_rousing_recorder",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_rousing_recorder_01"
+ },
+ {
+  "id": "trinket_cave_rousing_ringer",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_rousing_ringer_01"
+ },
+ {
+  "id": "trinket_cave_sneakers_standard",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_sneakers_standard_01"
+ },
+ {
+  "id": "trinket_cave_staggering_striker",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_staggering_striker_01"
+ },
+ {
+  "id": "trinket_cave_vanished_vanity",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cave_vanished_vanity_01"
+ },
+ {
+  "id": "trinket_city_boss_charred_litany",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_boss_charred_litany_01"
+ },
+ {
+  "id": "trinket_city_boss_smoldering_hymnal",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_boss_smoldering_hymnal_02"
+ },
+ {
+  "id": "trinket_city_enlightening_element",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_enlightening_element_01"
+ },
+ {
+  "id": "trinket_city_hastening_history",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_hastening_history_01"
+ },
+ {
+  "id": "trinket_city_laden_lantern",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_laden_lantern_01"
+ },
+ {
+  "id": "trinket_city_parrying_patriarch",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_parrying_patriarch_01"
+ },
+ {
+  "id": "trinket_city_sacred_scribblings",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_sacred_scribblings_01"
+ },
+ {
+  "id": "trinket_city_snappy_swig",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_snappy_swig_01"
+ },
+ {
+  "id": "trinket_city_tinderbox",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_city_tinderbox_03"
+ },
+ {
+  "id": "trinket_coast_boss_carved_bodkin",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_boss_carved_bodkin_02"
+ },
+ {
+  "id": "trinket_coast_boss_sodden_sweater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_boss_sodden_sweater_01"
+ },
+ {
+  "id": "trinket_coast_clasp_knife",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_clasp_knife_01"
+ },
+ {
+  "id": "trinket_coast_fishermans_line",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_fishermans_line_01"
+ },
+ {
+  "id": "trinket_coast_fishmongers_gloves",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_fishmongers_gloves_03"
+ },
+ {
+  "id": "trinket_coast_leather_strop",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_leather_strop_01"
+ },
+ {
+  "id": "trinket_coast_nautical_compass",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_nautical_compass_01"
+ },
+ {
+  "id": "trinket_coast_pristine_lure",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_pristine_lure_01"
+ },
+ {
+  "id": "trinket_coast_seamens_boots",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_coast_seamens_boots_01"
+ },
+ {
+  "id": "trinket_collector_barristans_head",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_collector_barristans_head_01"
+ },
+ {
+  "id": "trinket_collector_dismas_head",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_collector_dismas_head_01"
+ },
+ {
+  "id": "trinket_collector_junias_head",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_collector_junias_head_01"
+ },
+ {
+  "id": "trinket_cultist_cruel_intent",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_cruel_intent_01"
+ },
+ {
+  "id": "trinket_cultist_hardened_heart",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_hardened_heart_01"
+ },
+ {
+  "id": "trinket_cultist_idle_thought",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_idle_thought_01"
+ },
+ {
+  "id": "trinket_cultist_jealous_whisper",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_jealous_whisper_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_bleed_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_bleed_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_blight_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_blight_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_burn_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_burn_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_debuff_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_debuff_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_disease_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_disease_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_healing",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_healing_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_move_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_move_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_stress_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_stress_res_01"
+ },
+ {
+  "id": "trinket_cultist_key_dark_impulse_stun_res",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_key_dark_impulse_stun_res_01"
+ },
+ {
+  "id": "trinket_cultist_locked_jaw",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_locked_jaw_01"
+ },
+ {
+  "id": "trinket_cultist_misstep",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_misstep_01"
+ },
+ {
+  "id": "trinket_cultist_selfish_motivation",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_selfish_motivation_01"
+ },
+ {
+  "id": "trinket_cultist_sickening_silence",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_sickening_silence_01"
+ },
+ {
+  "id": "trinket_cultist_silent_treatment",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_silent_treatment_01"
+ },
+ {
+  "id": "trinket_cultist_snap_judgement",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_snap_judgement_01"
+ },
+ {
+  "id": "trinket_cultist_spoken_sharply",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_spoken_sharply_01"
+ },
+ {
+  "id": "trinket_cultist_temptation",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_temptation_01"
+ },
+ {
+  "id": "trinket_cultist_wounding_words",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "cultist",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_cultist_wounding_words_01"
+ },
+ {
+  "id": "trinket_curio_anatomical_map",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_anatomical_map_01"
+ },
+ {
+  "id": "trinket_curio_astroglass_flute",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_astroglass_flute_01"
+ },
+ {
+  "id": "trinket_curio_befuddling_sundial",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_befuddling_sundial_01"
+ },
+ {
+  "id": "trinket_curio_blood_smeared_calculations",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_blood_smeared_calculations_01"
+ },
+ {
+  "id": "trinket_curio_caked_palette",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_caked_palette_01"
+ },
+ {
+  "id": "trinket_curio_corrupted_bile_gland",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_corrupted_bile_gland_01"
+ },
+ {
+  "id": "trinket_curio_faceless_visage",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_faceless_visage_01"
+ },
+ {
+  "id": "trinket_curio_grim_mask",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_grim_mask_01"
+ },
+ {
+  "id": "trinket_curio_heart-shaped_padlock",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_heart-shaped_padlock_01"
+ },
+ {
+  "id": "trinket_curio_murder_weapon",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_murder_weapon_01"
+ },
+ {
+  "id": "trinket_curio_obsidian_dronepipe",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_obsidian_dronepipe_01"
+ },
+ {
+  "id": "trinket_curio_oversprung_pocketwatch",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_oversprung_pocketwatch_01"
+ },
+ {
+  "id": "trinket_curio_proxy_doll",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_proxy_doll_01"
+ },
+ {
+  "id": "trinket_curio_pulsing_heart",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_pulsing_heart_01"
+ },
+ {
+  "id": "trinket_curio_true_entropy",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_curio_true_entropy_01"
+ },
+ {
+  "id": "trinket_farm_boss_ghastly_gruel",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_boss_ghastly_gruel_03"
+ },
+ {
+  "id": "trinket_farm_boss_kitchen_knives",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_boss_kitchen_knives_01"
+ },
+ {
+  "id": "trinket_farm_brilliant_brew",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_brilliant_brew_01"
+ },
+ {
+  "id": "trinket_farm_corrupting_cleaver",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_corrupting_cleaver_01"
+ },
+ {
+  "id": "trinket_farm_curing_cuppa",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_curing_cuppa_01"
+ },
+ {
+  "id": "trinket_farm_galvanizing_goblet",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_galvanizing_goblet_01"
+ },
+ {
+  "id": "trinket_farm_hags_hoard",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_hags_hoard_01"
+ },
+ {
+  "id": "trinket_farm_hint_of_home",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_hint_of_home_01"
+ },
+ {
+  "id": "trinket_farm_poison_ring",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_farm_pillbox_ring_03"
+ },
+ {
+  "id": "trinket_forest_armory_key",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_armory_key_01"
+ },
+ {
+  "id": "trinket_forest_blistering_bugle",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_blistering_bugle_01"
+ },
+ {
+  "id": "trinket_forest_boss_footmans_grog",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_boss_footmans_grog_01"
+ },
+ {
+  "id": "trinket_forest_boss_reverberating_redoubt",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_boss_reverberating_redoubt_01"
+ },
+ {
+  "id": "trinket_forest_calibrating_censer",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_calibrating_censer_01"
+ },
+ {
+  "id": "trinket_forest_clenching_claws",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_clenching_claws_01"
+ },
+ {
+  "id": "trinket_forest_insulating_insignia",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_insulating_insignia_01"
+ },
+ {
+  "id": "trinket_forest_stone_mount",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_stone_mount_01"
+ },
+ {
+  "id": "trinket_forest_unwavering_standard",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_forest_unwavering_standard_01"
+ },
+ {
+  "id": "trinket_general_adrenalizing_ash",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_adrenalizing_ash_01"
+ },
+ {
+  "id": "trinket_general_bulwark_band",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_bulwark_band_01"
+ },
+ {
+  "id": "trinket_general_buttressing_band",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_buttressing_band_01"
+ },
+ {
+  "id": "trinket_general_clandestine_cape",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_clandestine_cape_01"
+ },
+ {
+  "id": "trinket_general_dead_ringer",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_dead_ringer_01"
+ },
+ {
+  "id": "trinket_general_disarming_dagger",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_disarming_dagger_01"
+ },
+ {
+  "id": "trinket_general_distracting_dust",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_distracting_dust_01"
+ },
+ {
+  "id": "trinket_general_gnarly_knuckles",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_gnarly_knuckles_01"
+ },
+ {
+  "id": "trinket_general_guarding_gauntlet",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_guarding_gauntlet_01"
+ },
+ {
+  "id": "trinket_general_ravens_reach",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_ravens_reach_01"
+ },
+ {
+  "id": "trinket_general_stirring_snuff",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_stirring_snuff_01"
+ },
+ {
+  "id": "trinket_general_strange_sapper",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_strange_sapper_01"
+ },
+ {
+  "id": "trinket_general_strong_shackles",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_strong_shackles_01"
+ },
+ {
+  "id": "trinket_general_thrilling_tablet",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_general_thrilling_tablet_01"
+ },
+ {
+  "id": "trinket_hero_bh_crime_lords_molars",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_bh_crime_lords_molars_01"
+ },
+ {
+  "id": "trinket_hero_bh_utility_belt",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_bh_utility_belt_01"
+ },
+ {
+  "id": "trinket_hero_bh_vengeful_kill_list",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_bh_vengeful_kill_list_01"
+ },
+ {
+  "id": "trinket_hero_flg_emancipation",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_flg_emancipation_01"
+ },
+ {
+  "id": "trinket_hero_flg_his_prison",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_flg_his_prison_01"
+ },
+ {
+  "id": "trinket_hero_flg_searing_scripture",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_flg_searing_scripture_01"
+ },
+ {
+  "id": "trinket_hero_gr_foreclosure_notice",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_gr_foreclosure_notice_01"
+ },
+ {
+  "id": "trinket_hero_gr_his_rings",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_gr_his_rings_01"
+ },
+ {
+  "id": "trinket_hero_gr_stiff_drink",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_gr_stiff_drink_01"
+ },
+ {
+  "id": "trinket_hero_hel_bloodied_branch",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hel_bloodied_branch_01"
+ },
+ {
+  "id": "trinket_hero_hel_empty_stein",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hel_empty_stein_01"
+ },
+ {
+  "id": "trinket_hero_hel_rotten_tomato",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hel_rotten_tomato_01"
+ },
+ {
+  "id": "trinket_hero_hwy_cursed_coin",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hwy_cursed_coin_01"
+ },
+ {
+  "id": "trinket_hero_hwy_rat_skull",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hwy_rat_skull_01"
+ },
+ {
+  "id": "trinket_hero_hwy_tormenting_locket",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hwy_tormenting_locket_01"
+ },
+ {
+  "id": "trinket_hero_jes_buskers_haul",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_jes_buskers_haul_01"
+ },
+ {
+  "id": "trinket_hero_jes_royal_summons",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_jes_royal_summons_01"
+ },
+ {
+  "id": "trinket_hero_jes_severed_finger",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_jes_severed_finger_01"
+ },
+ {
+  "id": "trinket_hero_lep_a_simple_flower",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_lep_a_simple_flower_01"
+ },
+ {
+  "id": "trinket_hero_lep_inevitable_end",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_lep_inevitable_end_01"
+ },
+ {
+  "id": "trinket_hero_lep_uncommon_seashell",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_lep_uncommon_seashell_01"
+ },
+ {
+  "id": "trinket_hero_maa_price_of_pride",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_maa_price_of_pride_01"
+ },
+ {
+  "id": "trinket_hero_maa_standard_of_the_ninth",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_maa_standard_of_the_ninth_01"
+ },
+ {
+  "id": "trinket_hero_maa_undeserved_commendation",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_maa_undeserved_commendation_01"
+ },
+ {
+  "id": "trinket_hero_occ_scalded_skull",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_occ_scalded_skull_01"
+ },
+ {
+  "id": "trinket_hero_occ_seeing_sphere",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_occ_seeing_sphere_01"
+ },
+ {
+  "id": "trinket_hero_occ_shamblers_eye",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_occ_shamblers_eye_01"
+ },
+ {
+  "id": "trinket_hero_pd_annotated_textbook",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_pd_annotated_textbook_01"
+ },
+ {
+  "id": "trinket_hero_pd_early_experiment",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_pd_early_experiment_01"
+ },
+ {
+  "id": "trinket_hero_pd_storage_room_key",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_pd_storage_room_key_01"
+ },
+ {
+  "id": "trinket_hero_run_carved_toy",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_run_carved_toy_01"
+ },
+ {
+  "id": "trinket_hero_run_knitted_blanket",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_run_knitted_blanket_02"
+ },
+ {
+  "id": "trinket_hero_run_pile_of_ash",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_run_pile_of_ash_01"
+ },
+ {
+  "id": "trinket_hero_ves_icon_of_the_light",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_ves_icon_of_the_light_01"
+ },
+ {
+  "id": "trinket_hero_ves_profane_scroll",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_ves_profane_scroll_01"
+ },
+ {
+  "id": "trinket_hero_ves_smoldering_firewood",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_ves_smoldering_firewood_01"
+ },
+ {
+  "id": "trinket_hoarder_fates_foreteller",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hoarder_fates_foreteller_01"
+ },
+ {
+  "id": "trinket_hoarder_inert_indicia",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hoarder_inert_indicia_01"
+ },
+ {
+  "id": "trinket_hoarder_mortal_ward",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hoarder_mortal_ward_01"
+ },
+ {
+  "id": "trinket_hoarder_prodding_pendant",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hoarder_prodding_pendant_01"
+ },
+ {
+  "id": "trinket_hoarder_skeletons_sight",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hoarder_skeletons_sight_01"
+ },
+ {
+  "id": "trinket_hoarder_sparkleball",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_hoarder_sparkleball_01"
+ },
+ {
+  "id": "trinket_shambler_eyes_of_the_void",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_shambler_eyes_of_the_void_01"
+ },
+ {
+  "id": "trinket_shambler_from_beyond",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_shambler_from_beyond_01"
+ },
+ {
+  "id": "trinket_shambler_hierarchy_of_sights",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_shambler_hierarchy_of_sights_01"
+ },
+ {
+  "id": "trinket_shambler_unblinking_entropy",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_shambler_unblinking_entropy_01"
+ },
+ {
+  "id": "trinket_surgeon_appalling_apron",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_surgeon_appalling_apron_01"
+ },
+ {
+  "id": "trinket_surgeon_spiked_leather_cap",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_surgeon_spiked_leather_cap_02"
+ },
+ {
+  "id": "trinket_tiered_anchoring_charm",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_anchoring_charm_01"
+ },
+ {
+  "id": "trinket_tiered_anchoring_charm_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_anchoring_charm_01"
+ },
+ {
+  "id": "trinket_tiered_anchoring_charm_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_anchoring_charm_01"
+ },
+ {
+  "id": "trinket_tiered_bouncers_belt",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_bouncers_belt_01"
+ },
+ {
+  "id": "trinket_tiered_bouncers_belt_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_bouncers_belt_01"
+ },
+ {
+  "id": "trinket_tiered_bouncers_belt_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_bouncers_belt_01"
+ },
+ {
+  "id": "trinket_tiered_cleansing_censer",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_cleansing_censer_01"
+ },
+ {
+  "id": "trinket_tiered_cleansing_censer_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_cleansing_censer_01"
+ },
+ {
+  "id": "trinket_tiered_cleansing_censer_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_cleansing_censer_01"
+ },
+ {
+  "id": "trinket_tiered_clotting_cruor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_clotting_cruor_01"
+ },
+ {
+  "id": "trinket_tiered_clotting_cruor_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_clotting_cruor_01"
+ },
+ {
+  "id": "trinket_tiered_clotting_cruor_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_clotting_cruor_01"
+ },
+ {
+  "id": "trinket_tiered_gilded_mind",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_gilded_mind_01"
+ },
+ {
+  "id": "trinket_tiered_gilded_mind_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_gilded_mind_01"
+ },
+ {
+  "id": "trinket_tiered_gilded_mind_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_gilded_mind_01"
+ },
+ {
+  "id": "trinket_tiered_hale_draught",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_hale_draught_01"
+ },
+ {
+  "id": "trinket_tiered_hale_draught_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_hale_draught_01"
+ },
+ {
+  "id": "trinket_tiered_hale_draught_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_hale_draught_01"
+ },
+ {
+  "id": "trinket_tiered_heartseeker",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_heartseeker_01"
+ },
+ {
+  "id": "trinket_tiered_heartseeker_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_heartseeker_01"
+ },
+ {
+  "id": "trinket_tiered_heartseeker_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_heartseeker_01"
+ },
+ {
+  "id": "trinket_tiered_heat_shield",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_heat_shield_01"
+ },
+ {
+  "id": "trinket_tiered_heat_shield_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_heat_shield_01"
+ },
+ {
+  "id": "trinket_tiered_heat_shield_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_heat_shield_01"
+ },
+ {
+  "id": "trinket_tiered_protectorate",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_protectorate_01"
+ },
+ {
+  "id": "trinket_tiered_protectorate_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_protectorate_01"
+ },
+ {
+  "id": "trinket_tiered_protectorate_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_protectorate_01"
+ },
+ {
+  "id": "trinket_tiered_sacrificial_host",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_sacrificial_host_01"
+ },
+ {
+  "id": "trinket_tiered_sacrificial_host_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_sacrificial_host_01"
+ },
+ {
+  "id": "trinket_tiered_sacrificial_host_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_sacrificial_host_01"
+ },
+ {
+  "id": "trinket_tiered_sharpness_charm",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_sharpness_charm_01"
+ },
+ {
+  "id": "trinket_tiered_sharpness_charm_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_sharpness_charm_01"
+ },
+ {
+  "id": "trinket_tiered_sharpness_charm_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_sharpness_charm_01"
+ },
+ {
+  "id": "trinket_tiered_wolfsblood",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "rare",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_wolfsblood_01"
+ },
+ {
+  "id": "trinket_tiered_wolfsblood_greater",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "epic",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_greater_wolfsblood_01"
+ },
+ {
+  "id": "trinket_tiered_wolfsblood_minor",
+  "from": "trinkets_data_export.Group.csv",
+  "type": "trinket",
+  "sub_type": "common",
+  "combat": false,
+  "consumable": false,
+  "buffs": "trinket_tiered_minor_wolfsblood_01"
+ }
+]

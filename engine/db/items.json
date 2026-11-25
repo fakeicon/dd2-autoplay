@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "ablative_powders",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "adrenaline_tonic",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "antivenom",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "armor_repair_kit",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "bandages",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "bear_trap",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "beastmen_bell",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "beastmen_hatchet",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "beastmen_horn",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "blasphemous_idol",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "bone_saw",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "book_bawdy_tales",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "book_desert",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "book_insults",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "book_poetry",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "boxing_gloves",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "bundle_of_contracts",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "burn_salve",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "calming_incense",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "candles",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "profile",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "candles_and_chocolate",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "cave_dirt",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "cave_rumour_den",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "cave_rumour_study",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "chalk_dust",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "city_books",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_assist",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_den",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_hoarder",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_hospital",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_oasis",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_study",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "city_rumour_watchtower",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "clarifying_poultice",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "clotting_poultice",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "clotting_powders",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_assist",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_den",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_hoarder",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_hospital",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_oasis",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_study",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_rumour_watchtower",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "coast_starfish",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "crows_feet",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "dart_board",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "death_cap_spores",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "dog_blood",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "dog_teeth",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "drum",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "experimental_remedy",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_assist",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_den",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_hoarder",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_hospital",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_oasis",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_study",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_rumour_watchtower",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "farm_spoons",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "fire_bomb",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "fire_grenade",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "fishermans_net",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "food_1",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "food_2",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "food_3",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "food_4",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "food_5",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "forest_medals",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_assist",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_den",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_hoarder",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_hospital",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_oasis",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_study",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "forest_rumour_watchtower",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "gold",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "relics",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "guided_meditation",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "healing_consumable_1",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "healing_consumable_2",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "hero_bones_01",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "hero_bones_01_valley",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "hero_bones_02",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "hero_bones_02_valley",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "hero_bones_03",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "hero_bones_03_valley",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "holy_beads",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "holy_hymnal",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "holy_water",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "ichor_bomb",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "impermeable_poultice",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "improvised_strategy",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "invigorating_intoxicant",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "laudanum",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "locked_strongbox",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "makeshift_javelin",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "materials",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "construction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "medicinal_herbs",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "medicinal_leeches",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "meditative_totem",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "mop",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "morbid_joke",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "neutralizing_powders",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "nightshade_concoction",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "noisemaker",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "oddly_tuned_lute",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "oil_flask",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "orbitoclast",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "otherworldly_fragment",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "pain_box",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "physicians_guild_seal",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "pipeweed",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "playing_cards",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "pouch_of_lye",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "precious_collection",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "pustule_salve",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "puzzling_trapezohedron",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "pyrotechnic_dazzler",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "rag",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "restorative_herbs",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "roast_pig",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "scrap_grenade",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "shimmering_powder",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "shred_of_decency",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "signal_flare_1",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "signal_flare_2",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "signal_flare_3",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "single_leech",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "smelling_salts",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "smoke_bomb",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "songbook_amorous",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "songbook_morose",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "songbook_rousing",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "soothing_poultice",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "space_dust",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "speed_bag",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "spider_appendage",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "spider_gland",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "spiked_ball",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "spring_water",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "stew",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "stimulants",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "stimulating_poultice",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "stitching_kit",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "tar_filled_colambre",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "the_blood",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "the_very_best",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "the_wine",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "thunderclap_grenade",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "tinned_preserves",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "torch_consumable",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "toxic_ichor",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "toxic_spores",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "trephine_bur",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "tug_rope",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_baubles",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_assist",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_den",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_hoarder",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_hospital",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_oasis",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_study",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "tundra_rumour_watchtower",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "unnatural_pigment",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "valley_baubles",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "faction",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "war_horn",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "war_paint",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "hero",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "wax_innoculant",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "whetstone",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "whiskey_barrel",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "whiskey_bottle",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "whiskey_flask",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "whittling_tools",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "wilburs_flag",
+  "from": "item_data_export.Group.csv",
+  "type": "combat",
+  "sub_type": "",
+  "combat": true,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "wild_tea",
+  "from": "item_data_export.Group.csv",
+  "type": "rest",
+  "sub_type": "",
+  "combat": false,
+  "consumable": true,
+  "buffs": ""
+ },
+ {
+  "id": "worm_secretion",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ },
+ {
+  "id": "worm_slime",
+  "from": "item_data_export.Group.csv",
+  "type": "currency",
+  "sub_type": "deliverable",
+  "combat": false,
+  "consumable": false,
+  "buffs": ""
+ }
+]

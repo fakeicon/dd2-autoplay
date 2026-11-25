@@ -1,0 +1,10 @@
+{
+  "_comment": "B2 队（麻风病人/野蛮人/瘟疫医生/老兵）道途。生效方式：Copy-Item db\\paths.新阵容.json db\\paths.json -Force（runner 每轮读一次，立刻生效）。2026-11-22 依据：麻风病人要稳（诗人=Regen/抗性）、野蛮人打输出（毁灭者）、PD 打腐蚀（炼金术士）、老兵后排辅助（士官=后方友军+3速）。",
+  "leper": ["lep_poet"],
+  "hellion": ["hel_ravager", "hel_berserker", "hel_carcass"],
+  "plague_doctor": ["plg_alchemist", "plg_surgeon", "wanderer"],
+  "man_at_arms": ["maa_sergeant"],
+  "highwayman": ["hwy_rogue"],
+  "vestal": ["ves_confessor"],
+  "_comment_20261124": "2026-11-24 08:5x（作者选 d2：开 DD2_AUTO_LOADOUT=1 每次重开自动恢复原套）：这局钉死的 4 人 hwy_rogue / lep_poet / maa_sergeant / ves_confessor。每人只留首选一条：pick_path 里同一道途拿 PREF_BONUS，多列一条会和 current 打平（maa 原来列了 bulwark，平手时 current 赢 → 换不成 sergeant）。hellion/plague_doctor 是旧 B2 队的，留着不动。"
+}

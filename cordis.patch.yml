@@ -1,0 +1,13 @@
+# DSH bundle patch —— 装一个 DD2 挂机面板（整页 + /dd2 命令 + 三个 agent 工具）。
+#
+# config 说明（都可以不写）：
+#   defaultHours  开始挂机默认跑几小时，默认 4
+#   autoLoadout   起 watchdog 时是否设 DD2_AUTO_LOADOUT=1（自动配道途/技能），默认 true
+#   autoRepair    面板是否自动修卡墙（摘锁 → 脉冲 → 重启托管进程），默认 true
+#   gameDir       手动指定游戏目录（一般不用：会自动从 Steam 注册表/libraryfolders.vdf 找）
+#   workdir       手动指定引擎目录（只给开发用；不写就用 %LOCALAPPDATA%\dsh-dd2\engine）
+- insert:
+    - id: dd2-autoplay
+      name: 'dsh-dd2-autoplay'
+      config:
+        defaultHours: 4

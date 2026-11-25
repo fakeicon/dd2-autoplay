@@ -1,0 +1,20 @@
+# 运行产物（引擎铺到临时目录自检时会产生）
+_run/
+**/logs/
+__pycache__/
+*.pyc
+
+# 引擎运行时写出来的东西（不进仓库）
+engine/report.json
+engine/alert.json
+engine/status.json
+engine/combat_log.jsonl
+engine/gear_log.jsonl
+engine/inn_ui_*.json
+engine/.engine-version
+
+# 开发
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

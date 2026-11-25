@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Darkest Dungeon II autoplay",
+    "description": "A full page that watches your Darkest Dungeon II autoplay run (state, heroes, combat, alerts), starts and stops the hosted process, and gives the model three tools: read status, run or stop, install the in-game plugin.",
+    "detail": "docs/DETAIL.md"
+  }
+}

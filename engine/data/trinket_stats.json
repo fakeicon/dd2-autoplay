@@ -1,0 +1,4161 @@
+{
+ "source": "db/rules.json(buff) + Excel/trinkets_actor_effect_trigger + zh_CN.po",
+ "count": 191,
+ "resolved": 191,
+ "with_stats": 123,
+ "with_desc": 19,
+ "total_stats": 206,
+ "trinkets": {
+  "trinket_ancestors_coat": {
+   "name_cn": "祖先的外套",
+   "rarity": "ancestral",
+   "buffs": [
+    "trinket_ancestors_coat_01",
+    "trinket_ancestors_coat_02",
+    "trinket_ancestors_debuff_01"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_received_percent",
+     "op": "add",
+     "value": "-0.15"
+    },
+    {
+     "stat": "dot_extra_duration_received",
+     "op": "sub:bleed",
+     "value": "-2"
+    },
+    {
+     "stat": "dot_extra_duration_received",
+     "op": "sub:blight",
+     "value": "-2"
+    },
+    {
+     "stat": "dot_extra_duration_received",
+     "op": "sub:burn",
+     "value": "-2"
+    },
+    {
+     "stat": "dot_effect_value_received_multiplier",
+     "op": "sub:horror",
+     "value": "1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [
+    "-2受到的   的持续时间",
+    "+100%受到的"
+   ],
+   "resolved": true
+  },
+  "trinket_ancestors_mustache_cream": {
+   "name_cn": "祖先的胡须膏",
+   "rarity": "ancestral",
+   "buffs": [
+    "trinket_ancestors_mustache_cream_01",
+    "trinket_ancestors_mustache_cream_02",
+    "trinket_ancestors_debuff_01"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_received_multiplier",
+     "op": "sub:horror",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "extra_action_mustache_cream_01",
+    "extra_action_mustache_cream_02"
+   ],
+   "triggers": [],
+   "desc": [
+    "目标： 敌人：额外行动（33%）\\n 对头目无效",
+    "+100%受到的"
+   ],
+   "resolved": true
+  },
+  "trinket_ancestors_pistol": {
+   "name_cn": "祖先的手枪",
+   "rarity": "ancestral",
+   "buffs": [
+    "trinket_ancestors_pistol_01",
+    "trinket_ancestors_pistol_02",
+    "trinket_ancestors_pistol_03",
+    "trinket_ancestors_debuff_01"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:debuff",
+     "value": "1"
+    },
+    {
+     "stat": "dot_effect_value_received_multiplier",
+     "op": "sub:horror",
+     "value": "1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [
+    "无视",
+    "处决 3",
+    "+100%受到的"
+   ],
+   "resolved": true
+  },
+  "trinket_antiq_celebrated_chalice": {
+   "name_cn": "远名圣杯",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_antiq_celebrated_chalice_01",
+    "trinket_antiq_celebrated_chalice_02"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "4"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_antiq_clarifying_carcanet": {
+   "name_cn": "明晰项链",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_antiq_clarifying_carcanet_01",
+    "trinket_antiq_clarifying_carcanet_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "0.2"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_antiq_cleansing_clasp": {
+   "name_cn": "净化锁扣",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_antiq_cleansing_clasp_01"
+   ],
+   "stats": [],
+   "effects": [
+    "remove_1_negative_token_bauble_condition"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_antiq_shimmering_crown": {
+   "name_cn": "荧光王冠",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_antiq_shimmering_crown_01",
+    "trinket_antiq_shimmering_crown_02"
+   ],
+   "stats": [],
+   "effects": [
+    "heal_100pct_relic_condition",
+    "stress_heal_10_bauble_condition"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_bone_mallet": {
+   "name_cn": "骨锤",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_cave_bone_mallet_01",
+    "trinket_cave_bone_mallet_02",
+    "trinket_cave_bone_mallet_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.25"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "add_1_daze_flame_50orless"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_covert_cloak": {
+   "name_cn": "隐匿斗篷",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_cave_covert_cloak_01",
+    "trinket_cave_covert_cloak_02",
+    "trinket_cave_covert_cloak_03"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [
+    "add_1_stealth_66pct_flame_50orless"
+   ],
+   "triggers": [],
+   "desc": [
+    "远程技能： 处决 1"
+   ],
+   "resolved": true
+  },
+  "trinket_cave_goading_gargoyle": {
+   "name_cn": "挑衅石像鬼",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_cave_goading_gargoyle_01",
+    "trinket_cave_goading_gargoyle_02"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "4"
+    }
+   ],
+   "effects": [
+    "convert_1_blind_to_1_strength_66pct",
+    "convert_2_blind_to_2_strength_66pct_hidden"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_peculiar_pods": {
+   "name_cn": "奇诡荚囊",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_cave_peculiar_pods_01",
+    "trinket_cave_peculiar_pods_02",
+    "trinket_cave_peculiar_pods_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:debuff",
+     "value": "0.25"
+    },
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "-2"
+    }
+   ],
+   "effects": [
+    "remove_1_disease_5pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_pig_sticker": {
+   "name_cn": "猪人刺刀",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_cave_pig_sticker_01",
+    "trinket_cave_pig_sticker_02"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [
+    "add_1_stealth_flame_50orless"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_rousing_recorder": {
+   "name_cn": "振奋音管",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_cave_rousing_recorder_01",
+    "trinket_cave_rousing_recorder_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "turn_start_random_friendly_pos_trinket_token_33pct"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_rousing_ringer": {
+   "name_cn": "醒神铜铃",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_cave_rousing_ringer_01",
+    "trinket_cave_rousing_ringer_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_daze_rousing_ringer",
+    "remove_stun_type_tag_rousing_ringer"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_sneakers_standard": {
+   "name_cn": "匿踪者旗帜",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_cave_sneakers_standard_01",
+    "trinket_cave_sneakers_standard_02"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "combat_start_allies_behind_stealth"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cave_staggering_striker": {
+   "name_cn": "撼地重拳",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_cave_staggering_striker_01",
+    "trinket_cave_staggering_striker_02",
+    "trinket_cave_staggering_striker_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "add_1_combo_flame_50orless"
+   ],
+   "triggers": [],
+   "desc": [
+    "近战技能： 处决 1"
+   ],
+   "resolved": true
+  },
+  "trinket_cave_vanished_vanity": {
+   "name_cn": "虚荣碎镜",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_cave_vanished_vanity_01",
+    "trinket_cave_vanished_vanity_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "-0.15"
+    }
+   ],
+   "effects": [
+    "add_1_combo_33pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_boss_charred_litany": {
+   "name_cn": "焚烬祷文",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_city_boss_charred_litany_01",
+    "trinket_city_boss_charred_litany_02",
+    "trinket_city_boss_charred_litany_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:stun",
+     "value": "0.2"
+    }
+   ],
+   "effects": [
+    "skill_dot_very_small_burn"
+   ],
+   "triggers": [
+    "on_burn_resist_stress_heal_2_as_target_to_target"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_boss_smoldering_hymnal": {
+   "name_cn": "焖燃赞诗",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_city_boss_smoldering_hymnal_02",
+    "trinket_city_boss_smoldering_hymnal_03",
+    "trinket_city_boss_smoldering_hymnal_01"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "6"
+    }
+   ],
+   "effects": [
+    "add_1_strength_first_initiative",
+    "extra_action_20pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_enlightening_element": {
+   "name_cn": "启迪融烛",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_city_enlightening_element_01",
+    "trinket_city_enlightening_element_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_dodge_speed_8orgreater",
+    "skill_dot_medium_burn_25pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_hastening_history": {
+   "name_cn": "迅疾史册",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_city_hastening_history_01",
+    "trinket_city_hastening_history_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_stun_10pct_spd_2orless"
+   ],
+   "triggers": [
+    "turn_end_ally_front_speed_token_33pct"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_laden_lantern": {
+   "name_cn": "沉重提灯",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_city_laden_lantern_01",
+    "trinket_city_laden_lantern_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:burn",
+     "value": "0.25"
+    }
+   ],
+   "effects": [
+    "add_1_blind_10pct_spd_2orless"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_parrying_patriarch": {
+   "name_cn": "周旋的族长像",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_city_parrying_patriarch_01",
+    "trinket_city_parrying_patriarch_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_weak_10pct_spd_2orless",
+    "convert_1_dodge_to_1_dodge_plus",
+    "convert_2_dodge_to_2_dodge_plus_hidden",
+    "convert_3_dodge_to_3_dodge_plus_hidden"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_sacred_scribblings": {
+   "name_cn": "神圣抄本",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_city_sacred_scribblings_01",
+    "trinket_city_sacred_scribblings_02"
+   ],
+   "stats": [
+    {
+     "stat": "dot_extra_duration_dealt",
+     "op": "sub:burn",
+     "value": "2"
+    }
+   ],
+   "effects": [
+    "add_1_vulnerable_10pct_spd_2orless"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_snappy_swig": {
+   "name_cn": "躁动酒饮",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_city_snappy_swig_01",
+    "trinket_city_snappy_swig_02"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:burn",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "add_1_crit_snappy_swig"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_city_tinderbox": {
+   "name_cn": "火种箱",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_city_tinderbox_03",
+    "trinket_city_tinderbox_01",
+    "trinket_city_tinderbox_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:burn",
+     "value": "0.33"
+    }
+   ],
+   "effects": [
+    "dot_small_burn_15pct",
+    "skill_dot_very_small_burn_tinderbox"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_boss_carved_bodkin": {
+   "name_cn": "雕刻发簪",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_coast_boss_carved_bodkin_02",
+    "trinket_coast_boss_carved_bodkin_01"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_received_change",
+     "op": "sub:bleed",
+     "value": "-2"
+    }
+   ],
+   "effects": [
+    "extra_action_20pct_if_performer_has_bleed"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_boss_sodden_sweater": {
+   "name_cn": "湿透的毛衣",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_coast_boss_sodden_sweater_01",
+    "trinket_coast_boss_sodden_sweater_02",
+    "trinket_coast_boss_sodden_sweater_03",
+    "trinket_coast_boss_sodden_sweater_04"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "0.5"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "0.5"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "on_bleed_resist_heal_10pct_as_target_to_target",
+    "on_move_resist_stress_heal_1_as_target_to_target"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_clasp_knife": {
+   "name_cn": "锁扣折刀",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_coast_clasp_knife_01",
+    "trinket_coast_clasp_knife_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:bleed",
+     "value": "0.25"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "-0.05"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_fishermans_line": {
+   "name_cn": "捕鱼人之线",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_coast_fishermans_line_01",
+    "trinket_coast_fishermans_line_02"
+   ],
+   "stats": [],
+   "effects": [
+    "equipped_fishermans_net_stun_15pct",
+    "equipped_serrated_item_tag_skill_bleed_33pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_fishmongers_gloves": {
+   "name_cn": "贩鱼人手套",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_coast_fishmongers_gloves_03",
+    "trinket_coast_fishmongers_gloves_01",
+    "trinket_coast_fishmongers_gloves_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:bleed",
+     "value": "0.33"
+    }
+   ],
+   "effects": [
+    "dot_small_bleed_15pct",
+    "skill_dot_very_small_bleed_fishmongers_gloves"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_leather_strop": {
+   "name_cn": "磨刀皮革",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_coast_leather_strop_01",
+    "trinket_coast_leather_strop_02"
+   ],
+   "stats": [
+    {
+     "stat": "dot_extra_duration_dealt",
+     "op": "sub:bleed",
+     "value": "2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:disease",
+     "value": "-0.15"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_nautical_compass": {
+   "name_cn": "航海指南针",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_coast_nautical_compass_01"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block",
+    "add_1_crit",
+    "add_1_dodge",
+    "add_1_strength",
+    "stress_damage_1"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_pristine_lure": {
+   "name_cn": "原初鱼饵",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_coast_pristine_lure_01",
+    "trinket_coast_pristine_lure_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_taunt_nr_50pct",
+    "add_2_taunt_nr_25pct",
+    "dot_small_bleed"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_coast_seamens_boots": {
+   "name_cn": "渔人靴",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_coast_seamens_boots_01",
+    "trinket_coast_seamens_boots_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block_seamens_boots",
+    "add_1_dodge_seamens_boots"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_collector_barristans_head": {
+   "name_cn": "Barristan之颅",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_collector_barristans_head_01",
+    "trinket_collector_barristans_head_02",
+    "trinket_collector_barristans_head_03"
+   ],
+   "stats": [],
+   "effects": [
+    "move_knockback_1_melee_skills",
+    "stress_damage_1_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_collector_dismas_head": {
+   "name_cn": "Dismas之颅",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_collector_dismas_head_01",
+    "trinket_collector_dismas_head_02",
+    "trinket_collector_dismas_head_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_vulnerable_ranged_skills",
+    "add_2_vulnerable_ranged_skills",
+    "stress_damage_1_15pct"
+   ],
+   "triggers": [],
+   "desc": [
+    "远程技能： 处决 1"
+   ],
+   "resolved": true
+  },
+  "trinket_collector_junias_head": {
+   "name_cn": "Junia之颅",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_collector_junias_head_01",
+    "trinket_collector_junias_head_02",
+    "trinket_collector_junias_head_03"
+   ],
+   "stats": [],
+   "effects": [
+    "remove_1_combo_token_junias_head",
+    "remove_1_negative_token_junias_head",
+    "stress_damage_1_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_cruel_intent": {
+   "name_cn": "【灭】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_cruel_intent_01",
+    "trinket_cultist_cruel_intent_02",
+    "trinket_cultist_cruel_intent_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_blind",
+    "add_2_blind",
+    "add_trinket_cruel_intent_buff"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_hardened_heart": {
+   "name_cn": "【漠】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_hardened_heart_01",
+    "trinket_cultist_hardened_heart_02",
+    "trinket_cultist_hardened_heart_03",
+    "trinket_cultist_hardened_heart_04"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "2"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "on_dot_resist_health_damage_2_as_target_to_target"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_idle_thought": {
+   "name_cn": "【逸】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_idle_thought_01",
+    "trinket_cultist_idle_thought_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "add_trinket_idle_thought_debuff_nr"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_jealous_whisper": {
+   "name_cn": "【妒】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_jealous_whisper_01",
+    "trinket_cultist_jealous_whisper_02",
+    "trinket_cultist_jealous_whisper_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_random_pos_trinket_token",
+    "remove_all_positive_tokens",
+    "stress_damage_1"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_bleed_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_bleed_res_01",
+    "trinket_cultist_key_dark_impulse_bleed_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_if_performer_bleed"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_blight_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_blight_res_01",
+    "trinket_cultist_key_dark_impulse_blight_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_if_performer_blight"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_burn_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_burn_res_01",
+    "trinket_cultist_key_dark_impulse_burn_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_if_performer_burn"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_debuff_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_debuff_res_01",
+    "trinket_cultist_key_dark_impulse_debuff_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "0.2"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_disease_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_disease_res_01",
+    "trinket_cultist_key_dark_impulse_disease_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:disease",
+     "value": "0.33"
+    },
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "-0.25"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_healing": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_healing_01",
+    "trinket_cultist_key_dark_impulse_healing_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.2"
+    },
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "-0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_move_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_move_res_01",
+    "trinket_cultist_key_dark_impulse_move_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "0.33"
+    }
+   ],
+   "effects": [
+    "stress_damage_1"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_stress_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_stress_res_01",
+    "trinket_cultist_key_dark_impulse_stress_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:stress",
+     "value": "0.25"
+    }
+   ],
+   "effects": [
+    "dot_horror_small_10_pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_key_dark_impulse_stun_res": {
+   "name_cn": "黑暗冲动",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_key_dark_impulse_stun_res_01",
+    "trinket_cultist_key_dark_impulse_stun_res_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "0.25"
+    },
+    {
+     "stat": "health_damage_received_percent",
+     "op": "add",
+     "value": "0.5"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_locked_jaw": {
+   "name_cn": "【默】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_locked_jaw_01",
+    "trinket_cultist_locked_jaw_02",
+    "trinket_cultist_locked_jaw_03",
+    "trinket_cultist_locked_jaw_04"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:bleed",
+     "value": "0.66"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:blight",
+     "value": "0.66"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:burn",
+     "value": "0.66"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:debuff",
+     "value": "-1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_misstep": {
+   "name_cn": "【谬】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_misstep_01",
+    "trinket_cultist_misstep_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "0.75"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "-0.5"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_selfish_motivation": {
+   "name_cn": "【浊】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_selfish_motivation_01",
+    "trinket_cultist_selfish_motivation_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "add_1_blind",
+    "add_1_immobilize",
+    "add_1_taunt",
+    "add_1_vulnerable"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_sickening_silence": {
+   "name_cn": "【染】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_sickening_silence_01",
+    "trinket_cultist_sickening_silence_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:disease",
+     "value": "-2"
+    }
+   ],
+   "effects": [
+    "skill_dot_massive_blight_if_diseased"
+   ],
+   "triggers": [],
+   "desc": [
+    "如果没有 ： -200%  抗性"
+   ],
+   "resolved": true
+  },
+  "trinket_cultist_silent_treatment": {
+   "name_cn": "【寂】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_silent_treatment_01",
+    "trinket_cultist_silent_treatment_02",
+    "trinket_cultist_silent_treatment_03"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.5"
+    },
+    {
+     "stat": "health_damage_received_percent",
+     "op": "add",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "add_1_stealth_50pct",
+    "add_2_stealth_20pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_snap_judgement": {
+   "name_cn": "【迫】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_snap_judgement_01",
+    "trinket_cultist_snap_judgement_02",
+    "trinket_cultist_snap_judgement_03",
+    "trinket_cultist_snap_judgement_04"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_pos_trinket_token_snap_judgement",
+    "end_combo_snap_judgement",
+    "extra_action_snap_judgement",
+    "snap_judgement_spd_buff_e",
+    "snap_judgement_spd_debuff_e"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_spoken_sharply": {
+   "name_cn": "【斥】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_spoken_sharply_01",
+    "trinket_cultist_spoken_sharply_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "-0.33"
+    }
+   ],
+   "effects": [
+    "heal_amount_4"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_temptation": {
+   "name_cn": "【贪】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_temptation_01",
+    "trinket_cultist_temptation_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "-1"
+    }
+   ],
+   "effects": [
+    "extra_action_temptation",
+    "health_damage_1"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_cultist_wounding_words": {
+   "name_cn": "【戾】",
+   "rarity": "cultist",
+   "buffs": [
+    "trinket_cultist_wounding_words_01",
+    "trinket_cultist_wounding_words_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.5"
+    },
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "-0.33"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_anatomical_map": {
+   "name_cn": "解剖图",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_anatomical_map_01"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_random_neg_trinket_token_anatomical_map",
+    "add_1_random_pos_trinket_token_anatomical_map"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_astroglass_flute": {
+   "name_cn": "星璃之笛",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_astroglass_flute_01"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "turn_start_random_friendly_stress_heal_70pct_dmg_30pct"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_befuddling_sundial": {
+   "name_cn": "困惑晷盘",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_befuddling_sundial_01"
+   ],
+   "stats": [],
+   "effects": [
+    "heal_befuddling_sundial",
+    "stress_damage_befuddling_sundial"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_blood_smeared_calculations": {
+   "name_cn": "染血算稿",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_blood_smeared_calculations_01",
+    "trinket_curio_blood_smeared_calculations_02",
+    "trinket_curio_blood_smeared_calculations_03"
+   ],
+   "stats": [],
+   "effects": [
+    "convert_1_block_to_strength_curio_item",
+    "convert_1_crit_to_dodge_plus_curio_item",
+    "convert_1_dodge_to_crit_curio_item",
+    "convert_1_strength_to_block_plus_curio_item",
+    "convert_block_plus_to_strength_curio_item",
+    "convert_block_to_strength_curio_item",
+    "convert_crit_to_dodge_plus_curio_item",
+    "convert_dodge_plus_to_crit_curio_item",
+    "convert_dodge_to_crit_curio_item",
+    "convert_strength_to_block_plus_curio_item",
+    "dot_very_small_bleed"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_caked_palette": {
+   "name_cn": "调色盘",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_caked_palette_01"
+   ],
+   "stats": [],
+   "effects": [
+    "copy_neg_tokens_caked_palette",
+    "copy_pos_tokens_caked_palette"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_corrupted_bile_gland": {
+   "name_cn": "腐化胆腺",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_corrupted_bile_gland_01",
+    "trinket_curio_corrupted_bile_gland_02"
+   ],
+   "stats": [],
+   "effects": [
+    "dot_medium_bleed",
+    "dot_medium_blight",
+    "dot_medium_burn",
+    "skill_dot_medium_bleed",
+    "skill_dot_medium_blight",
+    "skill_dot_medium_burn"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_faceless_visage": {
+   "name_cn": "无面像",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_faceless_visage_01",
+    "trinket_curio_faceless_visage_02"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "combat_start_each_friendly_shuffle",
+    "round_start_each_enemy_shuffle"
+   ],
+   "desc": [
+    "战斗开始时对每名英雄：  打乱位置"
+   ],
+   "resolved": true
+  },
+  "trinket_curio_grim_mask": {
+   "name_cn": "残酷面具",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_grim_mask_01",
+    "trinket_curio_grim_mask_02",
+    "trinket_curio_grim_mask_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.4"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "trinket_curio_grim_mask_01_aet"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_heart-shaped_padlock": {
+   "name_cn": "心形锁",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_heart-shaped_padlock_01",
+    "trinket_curio_heart-shaped_padlock_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_random_pos_trinket_token_33pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_murder_weapon": {
+   "name_cn": "杀人凶器",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_murder_weapon_01"
+   ],
+   "stats": [],
+   "effects": [
+    "instant_kill_murder_weapon"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_obsidian_dronepipe": {
+   "name_cn": "黑曜石音管",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_obsidian_dronepipe_01",
+    "trinket_curio_obsidian_dronepipe_02"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "turn_start_random_enemy_stun_33pct",
+    "turn_start_random_friendly_stun_10pct"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_oversprung_pocketwatch": {
+   "name_cn": "跳动的怀表",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_oversprung_pocketwatch_01"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_stun_50pct",
+    "extra_action_50pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_proxy_doll": {
+   "name_cn": "替身人偶",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_proxy_doll_01",
+    "trinket_curio_proxy_doll_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.1"
+    },
+    {
+     "stat": "health_damage_received_percent",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_pulsing_heart": {
+   "name_cn": "搏动的心脏",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_pulsing_heart_01"
+   ],
+   "stats": [],
+   "effects": [
+    "dot_very_small_bleed_66pct",
+    "hot_heal_small_33pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_curio_true_entropy": {
+   "name_cn": "纯粹混沌",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_curio_true_entropy_01"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_token_tag_random_1"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_boss_ghastly_gruel": {
+   "name_cn": "骇人粥碗",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_farm_boss_ghastly_gruel_03",
+    "trinket_farm_boss_ghastly_gruel_01",
+    "trinket_farm_boss_ghastly_gruel_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "0.5"
+    },
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.25"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "round_end_each_friendly_heal_2_33pct"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_boss_kitchen_knives": {
+   "name_cn": "厨房刀具",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_farm_boss_kitchen_knives_01",
+    "trinket_farm_boss_kitchen_knives_02",
+    "trinket_farm_boss_kitchen_knives_03"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.15"
+    }
+   ],
+   "effects": [
+    "heal_amount_2"
+   ],
+   "triggers": [
+    "on_blight_resist_extra_action_33pct_as_target_to_target"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_brilliant_brew": {
+   "name_cn": "绝妙佳酿",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_farm_brilliant_brew_01",
+    "trinket_farm_brilliant_brew_02"
+   ],
+   "stats": [
+    {
+     "stat": "dot_extra_duration_dealt",
+     "op": "sub:blight",
+     "value": "2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "-0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_corrupting_cleaver": {
+   "name_cn": "脏污剁刀",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_farm_corrupting_cleaver_01",
+    "trinket_farm_corrupting_cleaver_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:blight",
+     "value": "0.25"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "-0.15"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_curing_cuppa": {
+   "name_cn": "苦口药茶",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_farm_curing_cuppa_01",
+    "trinket_farm_curing_cuppa_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "skill_dot_medium_blight_25pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_galvanizing_goblet": {
+   "name_cn": "镀锌圣杯",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_farm_galvanizing_goblet_01",
+    "trinket_farm_galvanizing_goblet_02"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:blight",
+     "value": "1"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stress",
+     "value": "0.33"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_hags_hoard": {
+   "name_cn": "鬼婆秘藏",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_farm_hags_hoard_01",
+    "trinket_farm_hags_hoard_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "0.1"
+    },
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_hint_of_home": {
+   "name_cn": "家园念想",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_farm_hint_of_home_01",
+    "trinket_farm_hint_of_home_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [
+    "hot_heal_small_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_farm_poison_ring": {
+   "name_cn": "毒戒指",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_farm_pillbox_ring_03",
+    "trinket_farm_pillbox_ring_01",
+    "trinket_farm_pillbox_ring_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:blight",
+     "value": "0.33"
+    }
+   ],
+   "effects": [
+    "dot_small_blight_15pct",
+    "skill_dot_very_small_blight_poison_ring"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_armory_key": {
+   "name_cn": "军械库钥匙",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_forest_armory_key_01",
+    "trinket_forest_armory_key_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "0.2"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_blistering_bugle": {
+   "name_cn": "刺耳军号",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_forest_blistering_bugle_01",
+    "trinket_forest_blistering_bugle_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_taunt_nr_50pct",
+    "add_1_vulnerable_first_initiative_33pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_boss_footmans_grog": {
+   "name_cn": "步兵酒饮",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_forest_boss_footmans_grog_01",
+    "trinket_forest_boss_footmans_grog_02"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "turn_start_convert_vulnerable_to_block",
+    "turn_start_convert_weak_to_strength"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_boss_reverberating_redoubt": {
+   "name_cn": "回响壁盾",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_forest_boss_reverberating_redoubt_01",
+    "trinket_forest_boss_reverberating_redoubt_02"
+   ],
+   "stats": [],
+   "effects": [
+    "extra_action_20pct_target_spd_2orless",
+    "health_damage_2"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_calibrating_censer": {
+   "name_cn": "校准香炉",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_forest_calibrating_censer_01",
+    "trinket_forest_calibrating_censer_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block_66pct_spd_target_2orless",
+    "add_1_strength"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_clenching_claws": {
+   "name_cn": "钢牙陷阱",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_forest_clenching_claws_01",
+    "trinket_forest_clenching_claws_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_immobilize_66pct_spd_2orless",
+    "add_1_stun_10pct",
+    "add_1_vulnerable_20pct",
+    "add_1_weak_20pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_insulating_insignia": {
+   "name_cn": "庇护徽章",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_forest_insulating_insignia_01",
+    "trinket_forest_insulating_insignia_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_combo_first_initiative"
+   ],
+   "triggers": [
+    "turn_end_ally_front_block_token_33pct"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_stone_mount": {
+   "name_cn": "岩石座驾",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_forest_stone_mount_01",
+    "trinket_forest_stone_mount_02"
+   ],
+   "stats": [],
+   "effects": [
+    "convert_1_block_to_1_block_plus",
+    "convert_2_block_to_2_block_plus_hidden",
+    "convert_3_block_to_3_block_plus_hidden",
+    "stress_damage_1_first_initiative"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_forest_unwavering_standard": {
+   "name_cn": "坚毅旗帜",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_forest_unwavering_standard_01",
+    "trinket_forest_unwavering_standard_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_weak_if_first_initiative"
+   ],
+   "triggers": [
+    "combat_start_allies_behind_block"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_adrenalizing_ash": {
+   "name_cn": "醒神灰罐",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_adrenalizing_ash_01",
+    "trinket_general_adrenalizing_ash_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_daze_20pct",
+    "add_1_speed_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_bulwark_band": {
+   "name_cn": "壁垒手环",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_bulwark_band_01",
+    "trinket_general_bulwark_band_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_blind_15pct",
+    "add_1_dodge_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_buttressing_band": {
+   "name_cn": "强击手环",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_buttressing_band_01",
+    "trinket_general_buttressing_band_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_crit_10pct",
+    "add_1_vulnerable_20pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_clandestine_cape": {
+   "name_cn": "无踪披肩",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_clandestine_cape_01",
+    "trinket_general_clandestine_cape_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_stealth_15pct",
+    "add_1_vulnerable_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_dead_ringer": {
+   "name_cn": "死亡铃铛",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_dead_ringer_01",
+    "trinket_general_dead_ringer_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_daze_15pct",
+    "add_1_speed_20pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_disarming_dagger": {
+   "name_cn": "缴械匕首",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_disarming_dagger_01",
+    "trinket_general_disarming_dagger_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_strength_20pct",
+    "add_1_weak_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_distracting_dust": {
+   "name_cn": "迷惑粉尘",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_distracting_dust_01",
+    "trinket_general_distracting_dust_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_blind_15pct",
+    "add_1_crit_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_gnarly_knuckles": {
+   "name_cn": "钉刺指虎",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_gnarly_knuckles_01",
+    "trinket_general_gnarly_knuckles_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_melee_skills"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_guarding_gauntlet": {
+   "name_cn": "防卫护臂",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_guarding_gauntlet_01",
+    "trinket_general_guarding_gauntlet_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block_15pct",
+    "add_1_weak_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_ravens_reach": {
+   "name_cn": "乌鸦之触",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_ravens_reach_01",
+    "trinket_general_ravens_reach_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_ranged_skills"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_stirring_snuff": {
+   "name_cn": "澎湃鼻烟",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_stirring_snuff_01",
+    "trinket_general_stirring_snuff_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_strength_15pct",
+    "add_1_weak_20pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_strange_sapper": {
+   "name_cn": "怪异剑柄",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_strange_sapper_01",
+    "trinket_general_strange_sapper_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block_20pct",
+    "add_1_vulnerable_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_strong_shackles": {
+   "name_cn": "强力镣铐",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_general_strong_shackles_01",
+    "trinket_general_strong_shackles_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_immobilize_low_priority",
+    "add_1_immobilize_nr"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_general_thrilling_tablet": {
+   "name_cn": "孤注石板",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_general_thrilling_tablet_01",
+    "trinket_general_thrilling_tablet_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "1"
+    },
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_bh_crime_lords_molars": {
+   "name_cn": "黑帮头目的后槽牙",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_bh_crime_lords_molars_01",
+    "trinket_bh_crime_lords_molars_02",
+    "trinket_bh_crime_lords_molars_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:move",
+     "value": "0.5"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.05"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_bh_utility_belt": {
+   "name_cn": "实用腰带",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_bh_utility_belt_01",
+    "trinket_bh_utility_belt_02",
+    "trinket_bh_utility_belt_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:debuff",
+     "value": "0.25"
+    }
+   ],
+   "effects": [
+    "add_1_blind_bh_flashbang",
+    "add_1_weak_bh_hurlbat"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_bh_vengeful_kill_list": {
+   "name_cn": "复仇名单",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_bh_vengeful_kill_list_01",
+    "trinket_bh_vengeful_kill_list_02"
+   ],
+   "stats": [],
+   "effects": [
+    "trinket_bh_vengeful_kill_list_dmg_on_kill"
+   ],
+   "triggers": [],
+   "desc": [
+    "所有技能： 处决 1",
+    "亲手击杀时获得：+3%伤害 （1个地区）\\n 对尸体无效"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_flg_emancipation": {
+   "name_cn": "彻底解放",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_flg_emancipation_01",
+    "trinket_flg_emancipation_02",
+    "trinket_flg_emancipation_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.25"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "-0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_flg_his_prison": {
+   "name_cn": "本我囚笼",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_flg_his_prison_01",
+    "trinket_flg_his_prison_02",
+    "trinket_flg_his_prison_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "-0.2"
+    }
+   ],
+   "effects": [
+    "flg_his_prison_blight_debuff"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_flg_searing_scripture": {
+   "name_cn": "炽热圣符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_flg_searing_scripture_01",
+    "trinket_flg_searing_scripture_02",
+    "trinket_flg_searing_scripture_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "-0.2"
+    }
+   ],
+   "effects": [
+    "remove_1_negative_token",
+    "remove_all_combo_visible"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_gr_foreclosure_notice": {
+   "name_cn": "法拍告示",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_gr_foreclosure_notice_01",
+    "trinket_gr_foreclosure_notice_02",
+    "trinket_gr_foreclosure_notice_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    },
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "-0.25"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_gr_his_rings": {
+   "name_cn": "他的戒指",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_gr_his_rings_01",
+    "trinket_gr_his_rings_02",
+    "trinket_gr_his_rings_03",
+    "trinket_gr_his_rings_04"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [
+    "add_1_combo",
+    "stress_damage_1_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_gr_stiff_drink": {
+   "name_cn": "烈酒",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_gr_stiff_drink_01",
+    "trinket_gr_stiff_drink_02",
+    "trinket_gr_stiff_drink_03"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:blight",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "skill_dot_very_small_blight"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_hel_bloodied_branch": {
+   "name_cn": "染血树枝",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hel_bloodied_branch_01",
+    "trinket_hel_bloodied_branch_02",
+    "trinket_hel_bloodied_branch_03"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:bleed",
+     "value": "2"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.25"
+    }
+   ],
+   "effects": [
+    "dot_very_small_bleed_bloodied_branch"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_hel_empty_stein": {
+   "name_cn": "空酒杯",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hel_empty_stein_01",
+    "trinket_hel_empty_stein_02",
+    "trinket_hel_empty_stein_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_daze_self_empty_stein",
+    "add_1_strength_self_empty_stein",
+    "add_crit_buff_empty_stein",
+    "add_debuff_res_debuff_empty_stein"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_hel_rotten_tomato": {
+   "name_cn": "腐烂番茄",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hel_rotten_tomato_01",
+    "trinket_hel_rotten_tomato_02",
+    "trinket_hel_rotten_tomato_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage",
+     "op": "add",
+     "value": "2"
+    }
+   ],
+   "effects": [
+    "add_1_weak_rotten_tomato",
+    "move_knockback_1"
+   ],
+   "triggers": [],
+   "desc": [
+    "目标： 目标位置为4时，"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_hwy_cursed_coin": {
+   "name_cn": "受诅金币",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hwy_cursed_coin_01",
+    "trinket_hwy_cursed_coin_02",
+    "trinket_hwy_cursed_coin_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.05"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_hwy_rat_skull": {
+   "name_cn": "老鼠颅骨",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hwy_rat_skull_01",
+    "trinket_hwy_rat_skull_02",
+    "trinket_hwy_rat_skull_03",
+    "trinket_hwy_rat_skull_04"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "-0.66"
+    }
+   ],
+   "effects": [
+    "add_1_crit_rat_skull"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_hwy_tormenting_locket": {
+   "name_cn": "折磨吊坠",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hwy_tormenting_locket_01",
+    "trinket_hwy_tormenting_locket_02",
+    "trinket_hwy_tormenting_locket_03",
+    "trinket_hwy_tormenting_locket_04"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    },
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:bleed",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_15pct_ranged_skills"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_jes_buskers_haul": {
+   "name_cn": "卖艺钱罐",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_jes_buskers_haul_01",
+    "trinket_jes_buskers_haul_02",
+    "trinket_jes_buskers_haul_03",
+    "trinket_jes_buskers_haul_04"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_dodge_buskers_haul",
+    "add_forward_1_buskers_haul",
+    "remove_1_negative_token_royal_summons",
+    "stress_damage_buskers_haul"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_jes_royal_summons": {
+   "name_cn": "皇室诏令",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_jes_royal_summons_01",
+    "trinket_jes_royal_summons_02",
+    "trinket_jes_royal_summons_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_crit_10pct",
+    "move_forward_1"
+   ],
+   "triggers": [
+    "on_crit_allies_behind_1_positive_token"
+   ],
+   "desc": [
+    "受击时获得：   前进 1"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_jes_severed_finger": {
+   "name_cn": "断指",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_jes_severed_finger_01",
+    "trinket_jes_severed_finger_02",
+    "trinket_jes_severed_finger_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.25"
+    },
+    {
+     "stat": "dot_extra_duration_received",
+     "op": "sub:bleed",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "add_1_random_pos_trinket_token_severed_finger"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_lep_a_simple_flower": {
+   "name_cn": "淡雅花卉",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_lep_a_simple_flower_01",
+    "trinket_lep_a_simple_flower_02",
+    "trinket_lep_a_simple_flower_03"
+   ],
+   "stats": [],
+   "effects": [
+    "stress_damage_1_25pct_melee_skills"
+   ],
+   "triggers": [
+    "a_simple_flower_copy_pos_tokens_aet",
+    "a_simple_flower_on_resist_aet"
+   ],
+   "desc": [
+    "/ / 抵抗成功时获得：  ，  10%"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_lep_inevitable_end": {
+   "name_cn": "命定终局",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_lep_inevitable_end_01",
+    "trinket_lep_inevitable_end_02",
+    "trinket_lep_inevitable_end_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_dmg_buff_inevitable_end",
+    "add_spd_debuff_inevitable_end",
+    "move_forward_1"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_lep_uncommon_seashell": {
+   "name_cn": "珍稀贝壳",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_lep_uncommon_seashell_01",
+    "trinket_lep_uncommon_seashell_02",
+    "trinket_lep_uncommon_seashell_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block_50pct",
+    "add_1_block_plus_25pct",
+    "add_1_stun",
+    "dot_very_small_bleed_uncommon_seashell"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_maa_price_of_pride": {
+   "name_cn": "傲慢的代价",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_maa_price_of_pride_01",
+    "trinket_maa_price_of_pride_02",
+    "trinket_maa_price_of_pride_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_blind_if_first_initiative",
+    "add_1_block_plus_33pct",
+    "add_1_riposte_price_of_pride"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_maa_standard_of_the_ninth": {
+   "name_cn": "第九营旗帜",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_maa_standard_of_the_ninth_01",
+    "trinket_maa_standard_of_the_ninth_02",
+    "trinket_maa_standard_of_the_ninth_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_weak",
+    "destroy_1_positive_token"
+   ],
+   "triggers": [
+    "combat_start_allies_behind_block_plus"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_maa_undeserved_commendation": {
+   "name_cn": "配不上的嘉奖",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_maa_undeserved_commendation_01",
+    "trinket_maa_undeserved_commendation_02",
+    "trinket_maa_undeserved_commendation_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_block_undeserved_commendation",
+    "add_1_crit_undeserved_commendation",
+    "add_1_taunt_undeserved_commendation"
+   ],
+   "triggers": [
+    "on_miss_allies_behind_stress"
+   ],
+   "desc": [
+    "失手时造成：所有后排盟友：  +1"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_occ_scalded_skull": {
+   "name_cn": "炙烤之颅",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_occ_scalded_skull_01",
+    "trinket_occ_scalded_skull_02",
+    "trinket_occ_scalded_skull_03"
+   ],
+   "stats": [],
+   "effects": [
+    "skill_dot_very_small_burn_combo"
+   ],
+   "triggers": [
+    "trinket_occ_scalded_skull_02_aet",
+    "turn_start_random_friendly_burn_33pct_if_unchecked"
+   ],
+   "desc": [
+    "相邻盟友在行动开始时： 如果自身 ，添加1个 正面 标记"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_occ_seeing_sphere": {
+   "name_cn": "远视法球",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_occ_seeing_sphere_01",
+    "trinket_occ_seeing_sphere_02",
+    "trinket_occ_seeing_sphere_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage",
+     "op": "add",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "add_1_neg_trinket_token_seeing_sphere",
+    "add_1_random_neg_trinket_token"
+   ],
+   "triggers": [],
+   "desc": [
+    "目标身上每有一个 负面 标记，便 +1 伤害"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_occ_shamblers_eye": {
+   "name_cn": "跛行者之眼",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_occ_shamblers_eye_01",
+    "trinket_occ_shamblers_eye_02",
+    "trinket_occ_shamblers_eye_03"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.05"
+    },
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "-0.05"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "trinket_occ_shamblers_eye_02_aet"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_pd_annotated_textbook": {
+   "name_cn": "写满笔记的课本",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_pd_annotated_textbook_01",
+    "trinket_pd_annotated_textbook_02",
+    "trinket_pd_annotated_textbook_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.5"
+    }
+   ],
+   "effects": [
+    "add_1_vulnerable_annotated_textbook"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_pd_early_experiment": {
+   "name_cn": "早期实验",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_pd_early_experiment_01",
+    "trinket_pd_early_experiment_02",
+    "trinket_pd_early_experiment_03"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:blight",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "skill_dot_very_small_bleed_15pct",
+    "skill_dot_very_small_blight_15pct",
+    "skill_dot_very_small_burn_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_pd_storage_room_key": {
+   "name_cn": "贮藏室钥匙",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_pd_storage_room_key_01",
+    "trinket_pd_storage_room_key_02",
+    "trinket_pd_storage_room_key_03",
+    "trinket_pd_storage_room_key_04"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "add_storage_room_key_spd_debuff"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_run_carved_toy": {
+   "name_cn": "雕刻玩具",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_run_carved_toy_01",
+    "trinket_run_carved_toy_02",
+    "trinket_run_carved_toy_03"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.15"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:debuff",
+     "value": "0.25"
+    }
+   ],
+   "effects": [
+    "add_1_daze",
+    "add_1_taunt"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_run_knitted_blanket": {
+   "name_cn": "针织毯子",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_run_knitted_blanket_02",
+    "trinket_run_knitted_blanket_01",
+    "trinket_run_knitted_blanket_03"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:burn",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "skill_dot_very_small_burn_15pct"
+   ],
+   "triggers": [
+    "on_burn_res_gain_stealth"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_run_pile_of_ash": {
+   "name_cn": "一捧灰烬",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_run_pile_of_ash_01",
+    "trinket_run_pile_of_ash_02",
+    "trinket_run_pile_of_ash_03"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_dodge_50pct",
+    "add_1_dodge_plus_15pct",
+    "move_knockback_1",
+    "move_shuffle"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hero_ves_icon_of_the_light": {
+   "name_cn": "圣光印记",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_ves_icon_of_the_light_01",
+    "trinket_ves_icon_of_the_light_02",
+    "trinket_ves_icon_of_the_light_03",
+    "trinket_ves_icon_of_the_light_04"
+   ],
+   "stats": [
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:hot",
+     "value": "1"
+    },
+    {
+     "stat": "dot_effect_value_dealt_change",
+     "op": "sub:hot",
+     "value": "1"
+    }
+   ],
+   "effects": [
+    "stress_heal_1_skill_is_ves_blessing",
+    "torch_damage_icon_of_the_light"
+   ],
+   "triggers": [],
+   "desc": [
+    "+1造成的  或 +2造成的  （当 火炬 为100时）"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_ves_profane_scroll": {
+   "name_cn": "渎神卷轴",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_ves_profane_scroll_01",
+    "trinket_ves_profane_scroll_02",
+    "trinket_ves_profane_scroll_03",
+    "trinket_ves_profane_scroll_04",
+    "trinket_ves_profane_scroll_05"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage",
+     "op": "add",
+     "value": "1"
+    },
+    {
+     "stat": "health_damage_range",
+     "op": "add",
+     "value": "1"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:stun",
+     "value": "0.3"
+    }
+   ],
+   "effects": [
+    "stress_damage_1_25pct"
+   ],
+   "triggers": [
+    "trinket_ves_profane_scroll_04_aet"
+   ],
+   "desc": [
+    "+1-2 伤害"
+   ],
+   "resolved": true
+  },
+  "trinket_hero_ves_smoldering_firewood": {
+   "name_cn": "焖燃柴火",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_ves_smoldering_firewood_01",
+    "trinket_ves_smoldering_firewood_02",
+    "trinket_ves_smoldering_firewood_03"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.25"
+    }
+   ],
+   "effects": [
+    "skill_dot_very_small_burn_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hoarder_fates_foreteller": {
+   "name_cn": "宿命先知",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hoarder_fates_foreteller_01"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "on_dot_resist_heal_20pct_as_target_to_target"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hoarder_inert_indicia": {
+   "name_cn": "滞固徽记",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hoarder_inert_indicia_01",
+    "trinket_hoarder_inert_indicia_02",
+    "trinket_hoarder_inert_indicia_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "1"
+    }
+   ],
+   "effects": [],
+   "triggers": [
+    "on_daze_resist_gain_rand_pos_token_as_target_to_target",
+    "on_stun_resist_gain_rand_pos_token_as_target_to_target"
+   ],
+   "desc": [
+    "/ 抵抗成功时获得： 添加2个 正面 标记，  2"
+   ],
+   "resolved": true
+  },
+  "trinket_hoarder_mortal_ward": {
+   "name_cn": "护命符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hoarder_mortal_ward_01",
+    "trinket_hoarder_mortal_ward_02"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_crit",
+    "add_1_dodge_plus",
+    "stress_heal_2"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hoarder_prodding_pendant": {
+   "name_cn": "驱动吊坠",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hoarder_prodding_pendant_01"
+   ],
+   "stats": [],
+   "effects": [
+    "heal_33pct_chc_10pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hoarder_skeletons_sight": {
+   "name_cn": "骷髅之视",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hoarder_skeletons_sight_01"
+   ],
+   "stats": [],
+   "effects": [],
+   "triggers": [
+    "on_dot_resist_stress_heal_2_as_target_to_target"
+   ],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_hoarder_sparkleball": {
+   "name_cn": "璀璨光球",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_hoarder_sparkleball_01"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_blind_15pct",
+    "add_1_daze_15pct",
+    "add_1_immobilize_15pct",
+    "add_1_vulnerable_15pct",
+    "add_1_weak_15pct"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_shambler_eyes_of_the_void": {
+   "name_cn": "虚空之眼",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_shambler_eyes_of_the_void_01",
+    "trinket_shambler_eyes_of_the_void_02"
+   ],
+   "stats": [],
+   "effects": [
+    "skill_dot_very_large_bleed_stress_is_5",
+    "skill_dot_very_large_blight_stress_is_5",
+    "skill_dot_very_large_burn_stress_is_5",
+    "stress_damage_1_stress_is_5"
+   ],
+   "triggers": [],
+   "desc": [
+    "如果压力为5，命中时造成：   5（持续3次行动） 、  5（持续3次行动） 、  5（持续3次行动）"
+   ],
+   "resolved": true
+  },
+  "trinket_shambler_from_beyond": {
+   "name_cn": "域外之物",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_shambler_from_beyond_01",
+    "trinket_shambler_from_beyond_02",
+    "trinket_shambler_from_beyond_03",
+    "trinket_shambler_from_beyond_04"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "0.1"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "0.1"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:debuff",
+     "value": "0.05"
+    },
+    {
+     "stat": "resistance_ignore",
+     "op": "sub:move",
+     "value": "0.05"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_shambler_hierarchy_of_sights": {
+   "name_cn": "纷目之塔",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_shambler_hierarchy_of_sights_01"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_shambler_unblinking_entropy": {
+   "name_cn": "瞪视之熵",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_shambler_unblinking_entropy_01"
+   ],
+   "stats": [],
+   "effects": [
+    "add_1_random_pos_trinket_token"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_surgeon_appalling_apron": {
+   "name_cn": "骇人围裙",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_surgeon_appalling_apron_01",
+    "trinket_surgeon_appalling_apron_02",
+    "trinket_surgeon_appalling_apron_03",
+    "trinket_surgeon_appalling_apron_04"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.25"
+    },
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "-0.5"
+    }
+   ],
+   "effects": [
+    "hot_heal_small_if_dmgdot",
+    "remove_all_bleed",
+    "remove_all_blight",
+    "remove_all_burn"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_surgeon_spiked_leather_cap": {
+   "name_cn": "钉刺颅盔",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_surgeon_spiked_leather_cap_02",
+    "trinket_surgeon_spiked_leather_cap_01",
+    "trinket_surgeon_spiked_leather_cap_03",
+    "trinket_surgeon_spiked_leather_cap_04"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.15"
+    }
+   ],
+   "effects": [
+    "add_1_disease_5pct",
+    "skill_dot_small_bleed_if_bone_saw",
+    "skill_dot_very_small_bleed"
+   ],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_anchoring_charm": {
+   "name_cn": "锚定护符",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_anchoring_charm_01",
+    "trinket_tiered_anchoring_charm_02",
+    "trinket_tiered_anchoring_charm_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "0.25"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "0.2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_anchoring_charm_greater": {
+   "name_cn": "强大锚定护符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_anchoring_charm_01",
+    "trinket_tiered_greater_anchoring_charm_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "0.5"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "0.25"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_anchoring_charm_minor": {
+   "name_cn": "次等锚定护符",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_anchoring_charm_01",
+    "trinket_tiered_minor_anchoring_charm_02",
+    "trinket_tiered_minor_anchoring_charm_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "0.15"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "0.1"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_bouncers_belt": {
+   "name_cn": "保镖腰带",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_bouncers_belt_01",
+    "trinket_tiered_bouncers_belt_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "0.2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "-0.15"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_bouncers_belt_greater": {
+   "name_cn": "强大保镖腰带",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_bouncers_belt_01"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "0.25"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_bouncers_belt_minor": {
+   "name_cn": "次等保镖腰带",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_bouncers_belt_01",
+    "trinket_tiered_minor_bouncers_belt_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "0.15"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:move",
+     "value": "-0.15"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_cleansing_censer": {
+   "name_cn": "净化香炉",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_cleansing_censer_01",
+    "trinket_tiered_cleansing_censer_02",
+    "trinket_tiered_cleansing_censer_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:disease",
+     "value": "0.25"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "0.15"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_cleansing_censer_greater": {
+   "name_cn": "强大净化香炉",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_cleansing_censer_01",
+    "trinket_tiered_greater_cleansing_censer_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:disease",
+     "value": "0.5"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_cleansing_censer_minor": {
+   "name_cn": "次等净化香炉",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_cleansing_censer_01",
+    "trinket_tiered_minor_cleansing_censer_02",
+    "trinket_tiered_minor_cleansing_censer_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:disease",
+     "value": "0.15"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "0.1"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:stun",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_clotting_cruor": {
+   "name_cn": "凝结之血",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_clotting_cruor_01",
+    "trinket_tiered_clotting_cruor_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "0.33"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_clotting_cruor_greater": {
+   "name_cn": "强大凝结之血",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_clotting_cruor_01"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "0.66"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_clotting_cruor_minor": {
+   "name_cn": "次等凝结之血",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_clotting_cruor_01",
+    "trinket_tiered_minor_clotting_cruor_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "0.2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_gilded_mind": {
+   "name_cn": "镀金额首",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_gilded_mind_01",
+    "trinket_tiered_gilded_mind_02",
+    "trinket_tiered_gilded_mind_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:stress",
+     "value": "0.2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "0.1"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_gilded_mind_greater": {
+   "name_cn": "强大镀金额首",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_gilded_mind_01",
+    "trinket_tiered_greater_gilded_mind_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:stress",
+     "value": "0.25"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "0.15"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_gilded_mind_minor": {
+   "name_cn": "次等镀金额首",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_gilded_mind_01",
+    "trinket_tiered_minor_gilded_mind_02",
+    "trinket_tiered_minor_gilded_mind_03"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:stress",
+     "value": "0.15"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:death",
+     "value": "0.07"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:debuff",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_hale_draught": {
+   "name_cn": "康健秘饮",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_hale_draught_01",
+    "trinket_tiered_hale_draught_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "0.15"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "-0.03"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_hale_draught_greater": {
+   "name_cn": "强大康健秘饮",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_hale_draught_01"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_hale_draught_minor": {
+   "name_cn": "次等康健秘饮",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_hale_draught_01",
+    "trinket_tiered_minor_hale_draught_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "0.1"
+    },
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "-0.03"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_heartseeker": {
+   "name_cn": "寻心护符",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_heartseeker_01",
+    "trinket_tiered_heartseeker_02"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.05"
+    },
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_heartseeker_greater": {
+   "name_cn": "强大寻心护符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_heartseeker_01"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_heartseeker_minor": {
+   "name_cn": "次等寻心护符",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_heartseeker_01",
+    "trinket_tiered_minor_heartseeker_02"
+   ],
+   "stats": [
+    {
+     "stat": "crit_chance",
+     "op": "add",
+     "value": "0.03"
+    },
+    {
+     "stat": "health_heal_received_percent",
+     "op": "sub:skill",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_heat_shield": {
+   "name_cn": "阻热盾",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_heat_shield_01",
+    "trinket_tiered_heat_shield_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "0.33"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_heat_shield_greater": {
+   "name_cn": "强大阻热盾",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_heat_shield_01"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "0.66"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_heat_shield_minor": {
+   "name_cn": "次等阻热盾",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_heat_shield_01",
+    "trinket_tiered_minor_heat_shield_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:burn",
+     "value": "0.2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_protectorate": {
+   "name_cn": "圣佑护符",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_protectorate_01",
+    "trinket_tiered_protectorate_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.15"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_protectorate_greater": {
+   "name_cn": "强大圣佑护符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_protectorate_01"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_protectorate_minor": {
+   "name_cn": "次等圣佑护符",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_protectorate_01",
+    "trinket_tiered_minor_protectorate_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_heal_dealt_percent",
+     "op": "sub:skill",
+     "value": "0.1"
+    },
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_sacrificial_host": {
+   "name_cn": "献祭宿体",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_sacrificial_host_01",
+    "trinket_tiered_sacrificial_host_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "0.33"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_sacrificial_host_greater": {
+   "name_cn": "强大献祭宿体",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_sacrificial_host_01"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "0.66"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_sacrificial_host_minor": {
+   "name_cn": "次等献祭宿体",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_sacrificial_host_01",
+    "trinket_tiered_minor_sacrificial_host_02"
+   ],
+   "stats": [
+    {
+     "stat": "resistance",
+     "op": "sub:blight",
+     "value": "0.2"
+    },
+    {
+     "stat": "resistance",
+     "op": "sub:bleed",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_sharpness_charm": {
+   "name_cn": "锐利护符",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_sharpness_charm_01",
+    "trinket_tiered_sharpness_charm_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.15"
+    },
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "-2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_sharpness_charm_greater": {
+   "name_cn": "强大锐利护符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_sharpness_charm_01"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_sharpness_charm_minor": {
+   "name_cn": "次等锐利护符",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_sharpness_charm_01",
+    "trinket_tiered_minor_sharpness_charm_02"
+   ],
+   "stats": [
+    {
+     "stat": "health_damage_dealt_percent",
+     "op": "add",
+     "value": "0.1"
+    },
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "-2"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_wolfsblood": {
+   "name_cn": "狼血护符",
+   "rarity": "rare",
+   "buffs": [
+    "trinket_tiered_wolfsblood_01",
+    "trinket_tiered_wolfsblood_02"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "3"
+    },
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_wolfsblood_greater": {
+   "name_cn": "强大狼血护符",
+   "rarity": "epic",
+   "buffs": [
+    "trinket_tiered_greater_wolfsblood_01"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "6"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  },
+  "trinket_tiered_wolfsblood_minor": {
+   "name_cn": "次等狼血护符",
+   "rarity": "common",
+   "buffs": [
+    "trinket_tiered_minor_wolfsblood_01",
+    "trinket_tiered_minor_wolfsblood_02"
+   ],
+   "stats": [
+    {
+     "stat": "speed",
+     "op": "add",
+     "value": "2"
+    },
+    {
+     "stat": "health_max",
+     "op": "mul",
+     "value": "-0.1"
+    }
+   ],
+   "effects": [],
+   "triggers": [],
+   "desc": [],
+   "resolved": true
+  }
+ }
+}

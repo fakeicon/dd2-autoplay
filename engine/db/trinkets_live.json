@@ -1,0 +1,1075 @@
+{
+ "trinket_boss_deaths_head_01": {
+  "title": "死神之颅",
+  "desc": "死神之颅  铭心饰品  进入命悬一线时： 移除， -2  脱离命悬一线时：  33%  亲手击杀时获得： -2  对尸体无效",
+  "tags": []
+ },
+ "trinket_boss_deaths_head_02": {
+  "title": "死神之颅",
+  "desc": "死神之颅  铭心饰品  进入命悬一线时： 移除， x2， ， -2  脱离命悬一线时： 添加2正面标记  亲手击杀时获得： x2  对尸体无效",
+  "tags": []
+ },
+ "trinket_boss_deaths_head_03": {
+  "title": "死神之颅",
+  "desc": "死神之颅  铭心饰品  进入命悬一线时： x2， -2  脱离命悬一线时：  33%  亲手击杀时获得：移除所有负面标记，移除  对尸体无效",
+  "tags": []
+ },
+ "trinket_boss_deaths_head_04": {
+  "title": "死神之颅",
+  "desc": "死神之颅  铭心饰品  进入命悬一线时： 移除， -2  脱离命悬一线时： +10%伤害（持续1场战斗）， +3%暴击（持续1场战斗）， +1（持续1场战斗）  亲手击杀时获得： 移除  对尸体无效",
+  "tags": []
+ },
+ "trinket_boss_deaths_head_05": {
+  "title": "死神之颅",
+  "desc": "死神之颅  铭心饰品  进入命悬一线时： 移除， -2  脱离命悬一线时：  33%  亲手击杀时获得：  3 (3次行动)  对尸体无效",
+  "tags": []
+ },
+ "trinket_tiered_anchoring_charm_minor": {
+  "title": "次等锚定护符",
+  "desc": "次等锚定护符  模糊饰品  +15%抗性  +10%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_bouncers_belt_minor": {
+  "title": "次等保镖腰带",
+  "desc": "次等保镖腰带  模糊饰品  盔甲  +15%受到的技能治疗  -15%抗性",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_tiered_cleansing_censer_minor": {
+  "title": "次等净化香炉",
+  "desc": "次等净化香炉  模糊饰品  +15%抗性  +10%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_clotting_cruor_minor": {
+  "title": "次等凝结之血",
+  "desc": "次等凝结之血  模糊饰品  +20%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_gilded_mind_minor": {
+  "title": "次等镀金额首",
+  "desc": "次等镀金额首  模糊饰品  +15%抗性  +7%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_hale_draught_minor": {
+  "title": "次等康健秘饮",
+  "desc": "次等康健秘饮  模糊饰品  +10%最大  -3%暴击",
+  "tags": []
+ },
+ "trinket_tiered_heartseeker_minor": {
+  "title": "次等寻心护符",
+  "desc": "次等寻心护符  模糊饰品  +3%暴击  -10%受到的技能治疗",
+  "tags": []
+ },
+ "trinket_tiered_heat_shield_minor": {
+  "title": "次等阻热盾",
+  "desc": "次等阻热盾  模糊饰品  +20%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_protectorate_minor": {
+  "title": "次等圣佑护符",
+  "desc": "次等圣佑护符  模糊饰品  +10%技能造成的治疗  -10%伤害",
+  "tags": []
+ },
+ "trinket_tiered_sacrificial_host_minor": {
+  "title": "次等献祭宿体",
+  "desc": "次等献祭宿体  模糊饰品  +20%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_sharpness_charm_minor": {
+  "title": "次等锐利护符",
+  "desc": "次等锐利护符  模糊饰品  +10%伤害  -2",
+  "tags": []
+ },
+ "trinket_tiered_wolfsblood_minor": {
+  "title": "次等狼血护符",
+  "desc": "次等狼血护符  模糊饰品  +2  -10%最大",
+  "tags": []
+ },
+ "trinket_tiered_anchoring_charm": {
+  "title": "锚定护符",
+  "desc": "锚定护符  遥远饰品  +25%抗性  +20%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_bouncers_belt": {
+  "title": "保镖腰带",
+  "desc": "保镖腰带  遥远饰品  盔甲  +20%受到的技能治疗  -15%抗性",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_tiered_cleansing_censer": {
+  "title": "净化香炉",
+  "desc": "净化香炉  遥远饰品  +25%抗性  +15%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_clotting_cruor": {
+  "title": "凝结之血",
+  "desc": "凝结之血  遥远饰品  +33%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_gilded_mind": {
+  "title": "镀金额首",
+  "desc": "镀金额首  遥远饰品  +20%抗性  +10%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_hale_draught": {
+  "title": "康健秘饮",
+  "desc": "康健秘饮  遥远饰品  +15%最大  -3%暴击",
+  "tags": []
+ },
+ "trinket_tiered_heartseeker": {
+  "title": "寻心护符",
+  "desc": "寻心护符  遥远饰品  +5%暴击  -10%受到的技能治疗",
+  "tags": []
+ },
+ "trinket_tiered_heat_shield": {
+  "title": "阻热盾",
+  "desc": "阻热盾  遥远饰品  +33%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_protectorate": {
+  "title": "圣佑护符",
+  "desc": "圣佑护符  遥远饰品  +15%技能造成的治疗  -10%伤害",
+  "tags": []
+ },
+ "trinket_tiered_sacrificial_host": {
+  "title": "献祭宿体",
+  "desc": "献祭宿体  遥远饰品  +33%抗性  -10%抗性",
+  "tags": []
+ },
+ "trinket_tiered_sharpness_charm": {
+  "title": "锐利护符",
+  "desc": "锐利护符  遥远饰品  +15%伤害  -2",
+  "tags": []
+ },
+ "trinket_tiered_wolfsblood": {
+  "title": "狼血护符",
+  "desc": "狼血护符  遥远饰品  +3  -10%最大",
+  "tags": []
+ },
+ "trinket_tiered_anchoring_charm_greater": {
+  "title": "强大锚定护符",
+  "desc": "强大锚定护符  铭心饰品  +50%抗性  +25%抗性",
+  "tags": []
+ },
+ "trinket_tiered_bouncers_belt_greater": {
+  "title": "强大保镖腰带",
+  "desc": "强大保镖腰带  铭心饰品  盔甲  +25%受到的技能治疗",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_tiered_cleansing_censer_greater": {
+  "title": "强大净化香炉",
+  "desc": "强大净化香炉  铭心饰品  +50%抗性  +20%抗性",
+  "tags": []
+ },
+ "trinket_tiered_clotting_cruor_greater": {
+  "title": "强大凝结之血",
+  "desc": "强大凝结之血  铭心饰品  +66%抗性",
+  "tags": []
+ },
+ "trinket_tiered_gilded_mind_greater": {
+  "title": "强大镀金额首",
+  "desc": "强大镀金额首  铭心饰品  +25%抗性  +15%抗性",
+  "tags": []
+ },
+ "trinket_tiered_hale_draught_greater": {
+  "title": "强大康健秘饮",
+  "desc": "强大康健秘饮  铭心饰品  +20%最大",
+  "tags": []
+ },
+ "trinket_tiered_heartseeker_greater": {
+  "title": "强大寻心护符",
+  "desc": "强大寻心护符  铭心饰品  +10%暴击",
+  "tags": []
+ },
+ "trinket_tiered_heat_shield_greater": {
+  "title": "强大阻热盾",
+  "desc": "强大阻热盾  铭心饰品  +66%抗性",
+  "tags": []
+ },
+ "trinket_tiered_protectorate_greater": {
+  "title": "强大圣佑护符",
+  "desc": "强大圣佑护符  铭心饰品  +20%技能造成的治疗",
+  "tags": []
+ },
+ "trinket_tiered_sacrificial_host_greater": {
+  "title": "强大献祭宿体",
+  "desc": "强大献祭宿体  铭心饰品  +66%抗性",
+  "tags": []
+ },
+ "trinket_tiered_sharpness_charm_greater": {
+  "title": "强大锐利护符",
+  "desc": "强大锐利护符  铭心饰品  +20%伤害",
+  "tags": []
+ },
+ "trinket_tiered_wolfsblood_greater": {
+  "title": "强大狼血护符",
+  "desc": "强大狼血护符  铭心饰品  +6",
+  "tags": []
+ },
+ "trinket_general_adrenalizing_ash": {
+  "title": "醒神灰罐",
+  "desc": "醒神灰罐  遥远饰品  行动结束时：  （15%）  失手时获得：  （20%）",
+  "tags": []
+ },
+ "trinket_general_stirring_snuff": {
+  "title": "澎湃鼻烟",
+  "desc": "澎湃鼻烟  遥远饰品  行动开始时：  （15%）  失手时获得：  （20%）",
+  "tags": []
+ },
+ "trinket_general_bulwark_band": {
+  "title": "壁垒手环",
+  "desc": "壁垒手环  遥远饰品  行动开始时：  （15%）  失手时获得：  （15%）",
+  "tags": []
+ },
+ "trinket_general_buttressing_band": {
+  "title": "强击手环",
+  "desc": "强击手环  遥远饰品  行动开始时：  （10%）  失手时获得：  （20%）",
+  "tags": []
+ },
+ "trinket_general_guarding_gauntlet": {
+  "title": "防卫护臂",
+  "desc": "防卫护臂  遥远饰品  盔甲  行动开始时：  （15%）  失手时获得：  （15%）",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_general_clandestine_cape": {
+  "title": "无踪披肩",
+  "desc": "无踪披肩  遥远饰品  盔甲  回合开始时：  （15%）  失手时获得：  （15%）",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_general_disarming_dagger": {
+  "title": "缴械匕首",
+  "desc": "缴械匕首  遥远饰品  武器  命中时造成：  （15%）  失手时造成：  （20%）",
+  "tags": [
+   "weapon"
+  ]
+ },
+ "trinket_general_strange_sapper": {
+  "title": "怪异剑柄",
+  "desc": "怪异剑柄  遥远饰品  武器  命中时造成：  （15%）  失手时造成：  （20%）",
+  "tags": [
+   "weapon"
+  ]
+ },
+ "trinket_general_strong_shackles": {
+  "title": "强力镣铐",
+  "desc": "强力镣铐  遥远饰品  命中时造成：   命中时获得：",
+  "tags": []
+ },
+ "trinket_general_dead_ringer": {
+  "title": "死亡铃铛",
+  "desc": "死亡铃铛  遥远饰品  命中时造成：  （15%）  失手时造成：  （20%）",
+  "tags": []
+ },
+ "trinket_general_distracting_dust": {
+  "title": "迷惑粉尘",
+  "desc": "迷惑粉尘  遥远饰品  命中时造成：  （15%）  失手时造成：  （15%）",
+  "tags": []
+ },
+ "trinket_general_gnarly_knuckles": {
+  "title": "钉刺指虎",
+  "desc": "钉刺指虎  遥远饰品  武器, 锯齿物  近战技能：+20%伤害  近战技能：失手时获得： +1",
+  "tags": [
+   "weapon",
+   "serrated"
+  ]
+ },
+ "trinket_general_ravens_reach": {
+  "title": "乌鸦之触",
+  "desc": "乌鸦之触  遥远饰品  远程技能：+20%伤害  远程技能：失手时获得： +1",
+  "tags": []
+ },
+ "trinket_cave_peculiar_pods": {
+  "title": "奇诡荚囊",
+  "desc": "奇诡荚囊  遥远饰品  +25%抗性穿透  受击时获得： 移除 （5%）  火炬 高于75时，-2",
+  "tags": []
+ },
+ "trinket_cave_rousing_recorder": {
+  "title": "振奋音管",
+  "desc": "振奋音管  遥远饰品  行动开始时对随机盟友： 添加1正面标记 （33%）  火炬 高于75时，-10%抗性",
+  "tags": []
+ },
+ "trinket_cave_sneakers_standard": {
+  "title": "匿踪者旗帜",
+  "desc": "匿踪者旗帜  遥远饰品  战斗开始时： 所有后排盟友   战斗开始时： 火炬 高于75时， （33%）",
+  "tags": []
+ },
+ "trinket_cave_vanished_vanity": {
+  "title": "虚荣碎镜",
+  "desc": "虚荣碎镜  遥远饰品  受击时对攻击者造成：  （33%）  火炬 高于75时，-15%抗性",
+  "tags": []
+ },
+ "trinket_cave_covert_cloak": {
+  "title": "隐匿斗篷",
+  "desc": "隐匿斗篷  铭心饰品  盔甲  回合开始时： 火炬 低于50时， （66%）  远程技能：处决1  目标有时，+10%暴击",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_cave_staggering_striker": {
+  "title": "撼地重拳",
+  "desc": "撼地重拳  铭心饰品  盔甲  命中时造成： 火炬 低于50时， （66%）  近战技能：处决1  目标有时，+50%伤害",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_cave_goading_gargoyle": {
+  "title": "挑衅石像鬼",
+  "desc": "挑衅石像鬼  铭心饰品  行动开始时： 将转化为 （66%）  火炬 低于50时，+4",
+  "tags": []
+ },
+ "trinket_cave_rousing_ringer": {
+  "title": "醒神铜铃",
+  "desc": "醒神铜铃  铭心饰品  受击时对攻击者造成： 火炬 低于50时， （66%）  目标： 盟友：移除",
+  "tags": []
+ },
+ "trinket_cave_bone_mallet": {
+  "title": "骨锤",
+  "desc": "骨锤  铭心饰品  武器  暴击时造成： 火炬 低于50时，  目标有时，+25%伤害  目标有时，+50%伤害",
+  "tags": [
+   "weapon"
+  ]
+ },
+ "trinket_cave_pig_sticker": {
+  "title": "猪人刺刀",
+  "desc": "猪人刺刀  铭心饰品  武器  暴击时获得： 火炬 低于50时，  目标有时，+10%暴击",
+  "tags": [
+   "weapon"
+  ]
+ },
+ "trinket_city_hastening_history": {
+  "title": "迅疾史册",
+  "desc": "迅疾史册  遥远饰品  行动结束时： 前排盟友：  （33%）  行动开始时：  小于等于2时， （10%）",
+  "tags": []
+ },
+ "trinket_city_laden_lantern": {
+  "title": "沉重提灯",
+  "desc": "沉重提灯  遥远饰品  易燃物  +25%抗性穿透  行动开始时：  小于等于2时， （10%）",
+  "tags": [
+   "flammable"
+  ]
+ },
+ "trinket_city_parrying_patriarch": {
+  "title": "周旋的族长像",
+  "desc": "周旋的族长像  遥远饰品  行动结束时： 将转化为  行动开始时：  小于等于2时， （10%）",
+  "tags": []
+ },
+ "trinket_city_sacred_scribblings": {
+  "title": "神圣抄本",
+  "desc": "神圣抄本  遥远饰品  易燃物  +2造成的持续时间  行动开始时：  小于等于2时， （10%）",
+  "tags": [
+   "flammable"
+  ]
+ },
+ "trinket_city_tinderbox": {
+  "title": "火种箱",
+  "desc": "火种箱  遥远饰品  命中时造成： 装备易燃物时， 1 (3次行动) （33%）  装备易燃物时，+33%抗性穿透  失手时获得：  2 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_city_enlightening_element": {
+  "title": "启迪融烛",
+  "desc": "启迪融烛  铭心饰品  易燃物  命中时造成：  3 (3次行动) （25%）  行动开始时：  大于等于8时，",
+  "tags": [
+   "flammable"
+  ]
+ },
+ "trinket_city_snappy_swig": {
+  "title": "躁动酒饮",
+  "desc": "躁动酒饮  铭心饰品  +1造成的  行动开始时：  大于等于10时， （50%）",
+  "tags": []
+ },
+ "trinket_city_boss_charred_litany": {
+  "title": "焚烬祷文",
+  "desc": "焚烬祷文  铭心饰品  易燃物  受击时对攻击者造成：  1 (3次行动)  目标时，+20%抗性穿透  抵抗成功时获得：-2",
+  "tags": [
+   "flammable"
+  ]
+ },
+ "trinket_city_boss_smoldering_hymnal": {
+  "title": "焖燃赞诗",
+  "desc": "焖燃赞诗  铭心饰品  易燃物  行动开始时： 最先行动时，  亲手击杀时获得： 额外行动 （20%）  自身时，+6",
+  "tags": [
+   "flammable"
+  ]
+ },
+ "trinket_coast_clasp_knife": {
+  "title": "锁扣折刀",
+  "desc": "锁扣折刀  遥远饰品  武器, 锯齿物  +25%抗性穿透  自身时，-5%暴击",
+  "tags": [
+   "weapon",
+   "serrated"
+  ]
+ },
+ "trinket_coast_fishmongers_gloves": {
+  "title": "贩鱼人手套",
+  "desc": "贩鱼人手套  遥远饰品  命中时造成： 装备锯齿物时， 1 (3次行动) （33%）  装备锯齿物时，+33%抗性穿透  失手时获得：  2 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_coast_leather_strop": {
+  "title": "磨刀皮革",
+  "desc": "磨刀皮革  遥远饰品  +2造成的持续时间  自身时，-15%抗性",
+  "tags": []
+ },
+ "trinket_coast_pristine_lure": {
+  "title": "原初鱼饵",
+  "desc": "原初鱼饵  遥远饰品  锯齿物  命中时获得：  （50%） 或  x2 （25%）  失手时获得：  2 (3次行动)",
+  "tags": [
+   "serrated"
+  ]
+ },
+ "trinket_coast_seamens_boots": {
+  "title": "渔人靴",
+  "desc": "渔人靴  遥远饰品  盔甲  移动时：  小于等于2时， （66%）  移动时：  大于等于6时， （66%）",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_coast_fishermans_line": {
+  "title": "捕鱼人之线",
+  "desc": "捕鱼人之线  铭心饰品  命中时造成： 装备捕鱼人之网时， （15%）  命中时造成： 装备锯齿物时， 3 (3次行动) （33%）",
+  "tags": []
+ },
+ "trinket_coast_nautical_compass": {
+  "title": "航海指南针",
+  "desc": "航海指南针  铭心饰品  行动结束时：  或   或   或   或  +1",
+  "tags": []
+ },
+ "trinket_coast_boss_carved_bodkin": {
+  "title": "雕刻发簪",
+  "desc": "雕刻发簪  铭心饰品  行动开始时： 自身时，额外行动 （20%）  -2受到的",
+  "tags": []
+ },
+ "trinket_coast_boss_sodden_sweater": {
+  "title": "湿透的毛衣",
+  "desc": "湿透的毛衣  铭心饰品  盔甲  +50%抗性  抵抗成功时获得： 10%  抵抗成功时获得：-1",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_farm_brilliant_brew": {
+  "title": "绝妙佳酿",
+  "desc": "绝妙佳酿  遥远饰品  有害物  +2造成的持续时间  时，-20%抗性",
+  "tags": [
+   "noxious"
+  ]
+ },
+ "trinket_farm_corrupting_cleaver": {
+  "title": "脏污剁刀",
+  "desc": "脏污剁刀  遥远饰品  武器, 有害物  +25%抗性穿透  时，-15%抗性",
+  "tags": [
+   "weapon",
+   "noxious"
+  ]
+ },
+ "trinket_farm_hint_of_home": {
+  "title": "家园念想",
+  "desc": "家园念想  遥远饰品  受击时获得：  2 (3次行动) （15%）  时，-10%伤害",
+  "tags": []
+ },
+ "trinket_farm_hags_hoard": {
+  "title": "鬼婆秘藏",
+  "desc": "鬼婆秘藏  遥远饰品  每个正面标记+10%受到的技能治疗  时，-10%最大",
+  "tags": []
+ },
+ "trinket_farm_poison_ring": {
+  "title": "毒戒指",
+  "desc": "毒戒指  遥远饰品  命中时造成： 装备有害物时， 1 (3次行动) （33%）  装备有害物时，+33%抗性穿透  失手时获得：  2 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_farm_galvanizing_goblet": {
+  "title": "镀锌圣杯",
+  "desc": "镀锌圣杯  铭心饰品  +1造成的  自身HP 高于75%时，+33%抗性",
+  "tags": []
+ },
+ "trinket_farm_curing_cuppa": {
+  "title": "苦口药茶",
+  "desc": "苦口药茶  铭心饰品  有害物  命中时造成：  3 (3次行动) （25%）  自身HP 高于75%时，+50%抗性",
+  "tags": [
+   "noxious"
+  ]
+ },
+ "trinket_farm_boss_ghastly_gruel": {
+  "title": "骇人粥碗",
+  "desc": "骇人粥碗  铭心饰品  回合结束时对每名英雄：  2 （33%）  位置为 为1时，+50%受到的技能治疗  位置为 为4时，+25%技能造成的治疗",
+  "tags": []
+ },
+ "trinket_farm_boss_kitchen_knives": {
+  "title": "厨房刀具",
+  "desc": "厨房刀具  铭心饰品  武器, 有害物  目标时，+15%暴击  暴击时获得：  2  抵抗成功时获得：额外行动 （20%）",
+  "tags": [
+   "weapon",
+   "noxious"
+  ]
+ },
+ "trinket_forest_armory_key": {
+  "title": "军械库钥匙",
+  "desc": "军械库钥匙  遥远饰品  装备盔甲时，+20%最大  装备武器时，+20%伤害",
+  "tags": []
+ },
+ "trinket_forest_blistering_bugle": {
+  "title": "刺耳军号",
+  "desc": "刺耳军号  遥远饰品  行动开始时：  （50%）  行动开始时： 最先行动时， （33%）",
+  "tags": []
+ },
+ "trinket_forest_insulating_insignia": {
+  "title": "庇护徽章",
+  "desc": "庇护徽章  遥远饰品  行动结束时： 前排盟友：  （33%）  失手时获得： 最先行动时，",
+  "tags": []
+ },
+ "trinket_forest_stone_mount": {
+  "title": "岩石座驾",
+  "desc": "岩石座驾  遥远饰品  行动结束时： 将转化为  失手时获得： 最先行动时，+1",
+  "tags": []
+ },
+ "trinket_forest_unwavering_standard": {
+  "title": "坚毅旗帜",
+  "desc": "坚毅旗帜  遥远饰品  战斗开始时： 所有后排盟友   失手时获得： 最先行动时，",
+  "tags": []
+ },
+ "trinket_forest_calibrating_censer": {
+  "title": "校准香炉",
+  "desc": "校准香炉  铭心饰品  失手时获得：   受击时获得：  小于等于2时， （66%）",
+  "tags": []
+ },
+ "trinket_forest_clenching_claws": {
+  "title": "钢牙陷阱",
+  "desc": "钢牙陷阱  铭心饰品  锯齿物  受击时对攻击者造成：  （20%） 或   （20%） 或   （10%）  回合开始时：  小于等于2时， （66%）",
+  "tags": [
+   "serrated"
+  ]
+ },
+ "trinket_forest_boss_reverberating_redoubt": {
+  "title": "回响壁盾",
+  "desc": "回响壁盾  铭心饰品  盔甲  受击时对攻击者造成： 2伤害  受击时获得：  小于等于2时，额外行动 （20%）",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_forest_boss_footmans_grog": {
+  "title": "步兵酒饮",
+  "desc": "步兵酒饮  铭心饰品  行动开始时对每名英雄： 将转化为  行动开始时对每名英雄： 将转化为",
+  "tags": []
+ },
+ "trinket_hero_bh_crime_lords_molars": {
+  "title": "黑帮头目的后槽牙",
+  "desc": "黑帮头目的后槽牙  铭心饰品  赏金猎人  +50%抗性穿透  目标有时，+20%伤害  目标有时，+5%暴击",
+  "tags": []
+ },
+ "trinket_hero_bh_utility_belt": {
+  "title": "实用腰带",
+  "desc": "实用腰带  铭心饰品  赏金猎人  蒺藜：+25%抗性穿透  闪光弹：命中时造成：   手戟：命中时造成：",
+  "tags": []
+ },
+ "trinket_hero_bh_vengeful_kill_list": {
+  "title": "复仇名单",
+  "desc": "复仇名单  铭心饰品  赏金猎人  所有技能：处决1  亲手击杀时获得：+3%伤害（1个地区） 对尸体无效",
+  "tags": []
+ },
+ "trinket_hero_gr_foreclosure_notice": {
+  "title": "法拍告示",
+  "desc": "法拍告示  铭心饰品  盗墓贼  自身有时，+20%伤害  无影无踪：自身： 移除所有负面标记  自身没有期间，-25%受到的技能治疗",
+  "tags": []
+ },
+ "trinket_hero_gr_his_rings": {
+  "title": "他的戒指",
+  "desc": "他的戒指  铭心饰品  盗墓贼  闪避攻击时对攻击者造成：   迎头痛击：+10%暴击  月黑风高：自身： +2遗物， +1珍宝  受击时获得： +1 （15%）",
+  "tags": []
+ },
+ "trinket_hero_gr_stiff_drink": {
+  "title": "烈酒",
+  "desc": "烈酒  铭心饰品  盗墓贼  暴击时造成：  1 (3次行动)  自身有时，+1造成的  苦艾酒：自身：  1 (3次行动)",
+  "tags": []
+ },
+ "trinket_hero_hel_bloodied_branch": {
+  "title": "染血树枝",
+  "desc": "染血树枝  铭心饰品  野蛮人  自身HP 低于33%时，+2造成的  自身时，+25%伤害  行动开始时： 位置为 为4时， 1 (3次行动)",
+  "tags": []
+ },
+ "trinket_hero_hel_empty_stein": {
+  "title": "空酒杯",
+  "desc": "空酒杯  铭心饰品  野蛮人  压力降低时： +1%暴击（持续1场战斗）  喧闹狂欢：自身：  （95%） 或   （5%）  野蛮咆哮：目标： -20%抗性（3次行动）",
+  "tags": []
+ },
+ "trinket_hero_hel_rotten_tomato": {
+  "title": "腐烂番茄",
+  "desc": "腐烂番茄  铭心饰品  野蛮人  目标有时，+2伤害  目标：目标位置为4时，  受暴击时获得： 击退1",
+  "tags": []
+ },
+ "trinket_hero_hwy_cursed_coin": {
+  "title": "受诅金币",
+  "desc": "受诅金币  铭心饰品  强盗  每个正面标记+5%伤害  拦路抢劫：目标： 窃取  物品栏中遗物 高于50时，-10%暴击",
+  "tags": []
+ },
+ "trinket_hero_hwy_rat_skull": {
+  "title": "老鼠颅骨",
+  "desc": "老鼠颅骨  铭心饰品  强盗  行动开始时： 最先行动时， （33%）  瞄准：自身： 技能无视（持续3次行动）  追踪射击：目标： -20%抗性（3次行动）  面对动物：-66%受到的技能治疗",
+  "tags": []
+ },
+ "trinket_hero_hwy_tormenting_locket": {
+  "title": "折磨吊坠",
+  "desc": "折磨吊坠  铭心饰品  强盗  位置为 为1时，+10%暴击  位置为 为4时，+10%暴击  放血：+1造成的  远程技能：命中时获得： +1 （15%）",
+  "tags": []
+ },
+ "trinket_hero_jes_buskers_haul": {
+  "title": "卖艺钱罐",
+  "desc": "卖艺钱罐  铭心饰品  小丑  目标： 盟友： （33%）  淡出：目标： 移除1负面标记  战歌：目标： 行动开始时： 前进1（1次行动）  行动结束时： 物品栏中遗物 低于25时，+1 （25%）",
+  "tags": []
+ },
+ "trinket_hero_jes_royal_summons": {
+  "title": "皇室诏令",
+  "desc": "皇室诏令  铭心饰品  小丑  移动时：  （10%）  暴击时获得： 所有后排盟友 添加1正面标记  受击时获得： 前进1",
+  "tags": []
+ },
+ "trinket_hero_jes_severed_finger": {
+  "title": "断指",
+  "desc": "断指  铭心饰品  小丑  目标时，+25%伤害  回合开始时： 自身时，添加1正面标记  +1受到的持续时间",
+  "tags": []
+ },
+ "trinket_hero_lep_a_simple_flower": {
+  "title": "淡雅花卉",
+  "desc": "淡雅花卉  铭心饰品  麻风病人  行动结束时： 后排盟友： 添加1正面标记  //抵抗成功时获得：，10%  近战技能：暴击时获得： +1 （25%）",
+  "tags": []
+ },
+ "trinket_hero_lep_inevitable_end": {
+  "title": "命定终局",
+  "desc": "命定终局  铭心饰品  麻风病人  行动开始时： 前进1  行动结束时： 最后行动时，+5%伤害（持续1场战斗）  移动时： -1（持续1场战斗）",
+  "tags": []
+ },
+ "trinket_hero_lep_uncommon_seashell": {
+  "title": "珍稀贝壳",
+  "desc": "珍稀贝壳  铭心饰品  麻风病人  受暴击时对攻击者造成：   受到治疗时：  （50%），  （25%）  受击时获得：  1 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_hero_maa_price_of_pride": {
+  "title": "傲慢的代价",
+  "desc": "傲慢的代价  铭心饰品  老兵  受击时获得：  （33%）  盾击：自身：   行动开始时： 最先行动时，",
+  "tags": []
+ },
+ "trinket_hero_maa_standard_of_the_ninth": {
+  "title": "第九营旗帜",
+  "desc": "第九营旗帜  铭心饰品  老兵  战斗开始时对每名英雄：   受击时对攻击者造成： 移除1正面标记  受暴击时获得：",
+  "tags": []
+ },
+ "trinket_hero_maa_undeserved_commendation": {
+  "title": "配不上的嘉奖",
+  "desc": "配不上的嘉奖  铭心饰品  老兵  目标： 盟友： （15%）  命令：目标： ，   失手时造成：所有后排盟友：+1",
+  "tags": []
+ },
+ "trinket_hero_occ_scalded_skull": {
+  "title": "炙烤之颅",
+  "desc": "炙烤之颅  铭心饰品  神秘学家  目标： 目标有时， 1 (3次行动)  相邻盟友在行动开始时：如果自身，添加1个正面标记  行动开始时对随机盟友： 有 大于等于2时， 1 (3次行动) （33%）",
+  "tags": []
+ },
+ "trinket_hero_occ_seeing_sphere": {
+  "title": "远视法球",
+  "desc": "远视法球  铭心饰品  神秘学家  远程技能：命中时造成： 添加1负面标记 （33%）  目标身上每有一个负面标记，便+1伤害  被敌人移动时获得： 添加1负面标记",
+  "tags": []
+ },
+ "trinket_hero_occ_shamblers_eye": {
+  "title": "跛行者之眼",
+  "desc": "跛行者之眼  铭心饰品  神秘学家  每有1点压力，+5%暴击  压力提升时： 随机敌人：   每有1点压力，-5%技能造成的治疗",
+  "tags": []
+ },
+ "trinket_hero_pd_annotated_textbook": {
+  "title": "写满笔记的课本",
+  "desc": "写满笔记的课本  铭心饰品  瘟疫医生  目标： 盟友：转化1个负面标记（65%） 或  +1 （5%）  装备伤药时，+50%技能造成的治疗  行动开始时： 最先行动时， （33%）",
+  "tags": []
+ },
+ "trinket_hero_pd_early_experiment": {
+  "title": "早期实验",
+  "desc": "早期实验  铭心饰品  瘟疫医生  装备有害物时，+1造成的  暴击时造成： 转化2个正面标记  被敌人移动时获得：  1 (3次行动) （15%） 或   1 (3次行动) （15%） 或   1 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_hero_pd_storage_room_key": {
+  "title": "贮藏室钥匙",
+  "desc": "贮藏室钥匙  铭心饰品  瘟疫医生  预防措施：目标：   壮胆药雾：目标：  2 (3次行动)  每装备1件医疗器械，+1  失手时获得： -1（3次行动）",
+  "tags": []
+ },
+ "trinket_hero_run_carved_toy": {
+  "title": "雕刻玩具",
+  "desc": "雕刻玩具  铭心饰品  逃离者  自身有时，+15%暴击  目标时，+25%抗性穿透  被敌人移动时获得：  或",
+  "tags": []
+ },
+ "trinket_hero_run_knitted_blanket": {
+  "title": "针织毯子",
+  "desc": "针织毯子  铭心饰品  逃离者  抵抗成功时获得：  目标有负面标记时，+1造成的  压力提升时：  1 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_hero_run_pile_of_ash": {
+  "title": "一捧灰烬",
+  "desc": "一捧灰烬  铭心饰品  逃离者  移动时：  （50%） 或   （15%）  闪避攻击时对攻击者造成： 打乱位置  受击时获得： 击退1",
+  "tags": []
+ },
+ "trinket_hero_ves_icon_of_the_light": {
+  "title": "圣光印记",
+  "desc": "圣光印记  铭心饰品  圣女  +1造成的或+2造成的（当火炬为100时）  祝圣技能：目标： -1  受暴击时获得： 火炬-5 （66%）",
+  "tags": []
+ },
+ "trinket_hero_ves_profane_scroll": {
+  "title": "渎神卷轴",
+  "desc": "渎神卷轴  铭心饰品  圣女  +1-2伤害  火炬 低于50时，+30%抗性穿透  引导圣光：自身： 后排盟友： x2  失手时获得： +1 （25%）",
+  "tags": []
+ },
+ "trinket_hero_ves_smoldering_firewood": {
+  "title": "焖燃柴火",
+  "desc": "焖燃柴火  铭心饰品  圣女  装备易燃物时，+25%伤害  远程技能：目标：  2 (3次行动)  受击时获得：  1 (3次行动) （15%）",
+  "tags": []
+ },
+ "trinket_hero_flg_searing_scripture": {
+  "title": "炽热圣符",
+  "desc": "炽热圣符  铭心饰品  鞭笞者  回合结束时： 移除1负面标记， 移除  目标： 盟友：窃取负面标记， 窃取标记  -20%抗性",
+  "tags": []
+ },
+ "trinket_hero_flg_his_prison": {
+  "title": "本我囚笼",
+  "desc": "本我囚笼  铭心饰品  鞭笞者  受击时对攻击者造成： +1受到的（3次行动） （33%）  再来！再来！！：自身：   -20%抗性",
+  "tags": []
+ },
+ "trinket_hero_flg_emancipation": {
+  "title": "彻底解放",
+  "desc": "彻底解放  铭心饰品  鞭笞者  自身HP 低于20%时，+25%伤害  惩罚：目标： 窃取正面标记  -20%抗性",
+  "tags": []
+ },
+ "trinket_antiq_celebrated_chalice": {
+  "title": "远名圣杯",
+  "desc": "远名圣杯  铭心饰品  物品栏中遗物 高于50时，+4  物品栏中珍宝 高于50时，+10%暴击",
+  "tags": []
+ },
+ "trinket_antiq_clarifying_carcanet": {
+  "title": "明晰项链",
+  "desc": "明晰项链  铭心饰品  物品栏中遗物 高于75时，+20%最大  物品栏中珍宝 高于75时，+20%伤害",
+  "tags": []
+ },
+ "trinket_antiq_cleansing_clasp": {
+  "title": "净化锁扣",
+  "desc": "净化锁扣  铭心饰品  行动开始时： 物品栏中珍宝 高于25时，移除1负面标记",
+  "tags": []
+ },
+ "trinket_antiq_shimmering_crown": {
+  "title": "荧光王冠",
+  "desc": "荧光王冠  铭心饰品  战斗开始时： 物品栏中遗物 高于100时， 100%  战斗开始时： 物品栏中珍宝 高于100时，-10",
+  "tags": []
+ },
+ "trinket_curio_anatomical_map": {
+  "title": "解剖图",
+  "desc": "解剖图  铭心饰品  命中时造成： 添加1负面标记 （95%） 或  添加1正面标记 （5%）",
+  "tags": []
+ },
+ "trinket_curio_astroglass_flute": {
+  "title": "星璃之笛",
+  "desc": "星璃之笛  铭心饰品  行动开始时对随机盟友： -1 （70%） 或  +1 （30%）",
+  "tags": []
+ },
+ "trinket_curio_befuddling_sundial": {
+  "title": "困惑晷盘",
+  "desc": "困惑晷盘  铭心饰品  行动开始时：  10% （90%） 或  +2 （10%）",
+  "tags": []
+ },
+ "trinket_curio_corrupted_bile_gland": {
+  "title": "腐化胆腺",
+  "desc": "腐化胆腺  铭心饰品  锯齿物, 有害物, 易燃物  命中时造成：  3 (3次行动) 或   3 (3次行动) 或   3 (3次行动)  受击时获得：  3 (3次行动) 或   3 (3次行动) 或   3 (3次行动)",
+  "tags": [
+   "serrated",
+   "noxious",
+   "flammable"
+  ]
+ },
+ "trinket_curio_faceless_visage": {
+  "title": "无面像",
+  "desc": "无面像  铭心饰品  回合开始时对每个敌人： 打乱位置  战斗开始时对每名英雄：打乱位置",
+  "tags": []
+ },
+ "trinket_curio_grim_mask": {
+  "title": "残酷面具",
+  "desc": "残酷面具  铭心饰品  盔甲  暴击时获得： 每名盟友： 火炬 高于50时，-1 （33%）  行动结束时对每个盟友： 火炬 低于50时，+1 （33%）  火炬 低于50时，+40%伤害",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_curio_heart-shaped_padlock": {
+  "title": "心形锁",
+  "desc": "心形锁  铭心饰品  受到治疗时对随机盟友： 添加1正面标记 （33%）    坚定时：添加2正面标记",
+  "tags": []
+ },
+ "trinket_curio_obsidian_dronepipe": {
+  "title": "黑曜石音管",
+  "desc": "黑曜石音管  铭心饰品  行动开始时对随机敌人：  （33%）  行动开始时对随机盟友：  （10%）",
+  "tags": []
+ },
+ "trinket_curio_oversprung_pocketwatch": {
+  "title": "跳动的怀表",
+  "desc": "跳动的怀表  铭心饰品  行动结束时： 额外行动 （50%） 或   （50%）",
+  "tags": []
+ },
+ "trinket_curio_proxy_doll": {
+  "title": "替身人偶",
+  "desc": "替身人偶  铭心饰品  每个正面标记+10%伤害  每个负面标记+10%受到的伤害",
+  "tags": []
+ },
+ "trinket_curio_pulsing_heart": {
+  "title": "搏动的心脏",
+  "desc": "搏动的心脏  铭心饰品  行动开始时：  2 (3次行动) （33%） 或   1 (3次行动) （66%）",
+  "tags": []
+ },
+ "trinket_curio_true_entropy": {
+  "title": "纯粹混沌",
+  "desc": "纯粹混沌  铭心饰品  行动开始时： 添加1随机标记",
+  "tags": []
+ },
+ "trinket_curio_caked_palette": {
+  "title": "调色盘",
+  "desc": "调色盘  铭心饰品  命中时造成： 复制正面标记， 复制所有负面标记 （5%）",
+  "tags": []
+ },
+ "trinket_curio_blood_smeared_calculations": {
+  "title": "染血算稿",
+  "desc": "染血算稿  铭心饰品  行动开始时： 将转化为， 将转化为  行动结束时： 将转化为， 将转化为  行动结束时：  1 (3次行动)",
+  "tags": []
+ },
+ "trinket_curio_murder_weapon": {
+  "title": "杀人凶器",
+  "desc": "杀人凶器  铭心饰品  武器  暴击时造成： 即死 （20%）  对头目无效",
+  "tags": [
+   "weapon"
+  ]
+ },
+ "trinket_general_thrilling_tablet": {
+  "title": "孤注石板",
+  "desc": "孤注石板  铭心饰品  每缺少一名盟友+100%伤害  每缺少一名盟友+100%最大",
+  "tags": []
+ },
+ "trinket_hoarder_mortal_ward": {
+  "title": "护命符",
+  "desc": "护命符  铭心饰品  进入命悬一线时： ， ， -2  脱离命悬一线时： ， ， -2",
+  "tags": []
+ },
+ "trinket_hoarder_inert_indicia": {
+  "title": "滞固徽记",
+  "desc": "滞固徽记  铭心饰品  +100%抗性  /抵抗成功时获得：添加2个正面标记，2",
+  "tags": []
+ },
+ "trinket_hoarder_fates_foreteller": {
+  "title": "宿命先知",
+  "desc": "宿命先知  铭心饰品   /  / 抵抗成功时获得： 20%",
+  "tags": []
+ },
+ "trinket_hoarder_prodding_pendant": {
+  "title": "驱动吊坠",
+  "desc": "驱动吊坠  铭心饰品  压力提升时：  33% （10%）",
+  "tags": []
+ },
+ "trinket_hoarder_skeletons_sight": {
+  "title": "骷髅之视",
+  "desc": "骷髅之视  铭心饰品   /  / 抵抗成功时获得：-2",
+  "tags": []
+ },
+ "trinket_hoarder_sparkleball": {
+  "title": "璀璨光球",
+  "desc": "璀璨光球  铭心饰品  命中时造成：  （15%），  （15%），  （15%），  （15%），  （15%）",
+  "tags": []
+ },
+ "trinket_surgeon_appalling_apron": {
+  "title": "骇人围裙",
+  "desc": "骇人围裙  铭心饰品  盔甲  行动开始时： 自身时， 2 (3次行动)  行动结束时： 移除  装备伤药时，+25%技能造成的治疗  -50%受到的技能治疗",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_surgeon_spiked_leather_cap": {
+  "title": "钉刺颅盔",
+  "desc": "钉刺颅盔  铭心饰品  盔甲, 锯齿物  目标时，+15%暴击  受击时对攻击者造成：  1 (3次行动)  暴击时造成： 装备骨锯时， 2 (3次行动)  暴击时获得： 添加 （5%）",
+  "tags": [
+   "armor",
+   "serrated"
+  ]
+ },
+ "trinket_shambler_eyes_of_the_void": {
+  "title": "虚空之眼",
+  "desc": "虚空之眼  铭心饰品  如果压力为5，命中时造成：5（持续3次行动）、5（持续3次行动）、5（持续3次行动）  命中时获得： 压力 为5时，+1",
+  "tags": []
+ },
+ "trinket_shambler_from_beyond": {
+  "title": "域外之物",
+  "desc": "域外之物  铭心饰品  每有1点压力，+10%抗性  每有1点压力，+5%抗性穿透",
+  "tags": []
+ },
+ "trinket_shambler_hierarchy_of_sights": {
+  "title": "纷目之塔",
+  "desc": "纷目之塔  铭心饰品  每有1点压力，+10%伤害",
+  "tags": []
+ },
+ "trinket_shambler_unblinking_entropy": {
+  "title": "瞪视之熵",
+  "desc": "瞪视之熵  铭心饰品  压力提升时： 添加1正面标记",
+  "tags": []
+ },
+ "trinket_collector_barristans_head": {
+  "title": "Barristan之颅",
+  "desc": "Barristan之颅  铭心饰品  近战技能：命中时造成： 击退1  近战技能：自身：   行动开始时： +1 （15%）",
+  "tags": []
+ },
+ "trinket_collector_dismas_head": {
+  "title": "Dismas之颅",
+  "desc": "Dismas之颅  铭心饰品  远程技能：命中时造成：  或  x2  远程技能：处决1  行动开始时： +1 （15%）",
+  "tags": []
+ },
+ "trinket_collector_junias_head": {
+  "title": "Junia之颅",
+  "desc": "Junia之颅  铭心饰品  目标： 盟友：移除1负面标记  目标： 盟友：移除  行动开始时： +1 （15%）",
+  "tags": []
+ },
+ "trinket_ancestors_coat": {
+  "title": "祖先的外套",
+  "desc": "祖先的外套  先祖饰品  盔甲  -15%受到的伤害  -2受到的的持续时间  +100%受到的",
+  "tags": [
+   "armor"
+  ]
+ },
+ "trinket_ancestors_mustache_cream": {
+  "title": "祖先的胡须膏",
+  "desc": "祖先的胡须膏  先祖饰品  目标： 盟友：额外行动 （50%）  目标：敌人：额外行动（33%） 对头目无效  +100%受到的",
+  "tags": []
+ },
+ "trinket_ancestors_pistol": {
+  "title": "祖先的手枪",
+  "desc": "祖先的手枪  先祖饰品  武器  +100%抗性穿透  无视  处决3  +100%受到的",
+  "tags": [
+   "weapon"
+  ]
+ },
+ "trinket_cultist_cruel_intent": {
+  "title": "【灭】",
+  "desc": "【灭】  难忘饰品  已装备斑驳物物品时可以装备  战斗开始时： x2  非暴击时获得：   失手时获得： +10%暴击（持续1场战斗）",
+  "tags": []
+ },
+ "trinket_cultist_hardened_heart": {
+  "title": "【漠】",
+  "desc": "【漠】  难忘饰品  已装备斑驳物物品时可以装备  +200%抗性   /  / 抵抗成功时获得：2伤害",
+  "tags": []
+ },
+ "trinket_cultist_idle_thought": {
+  "title": "【逸】",
+  "desc": "【逸】  难忘饰品  已装备斑驳物物品时可以装备  +100%伤害  回合结束时： -30%伤害（持续1场战斗）",
+  "tags": []
+ },
+ "trinket_cultist_jealous_whisper": {
+  "title": "【妒】",
+  "desc": "【妒】  难忘饰品  已装备斑驳物物品时可以装备  移动时： 添加1正面标记  被盟友技能移动时获得： 添加1正面标记  被敌人移动时获得： 移除所有正面标记， +1",
+  "tags": []
+ },
+ "trinket_cultist_locked_jaw": {
+  "title": "【默】",
+  "desc": "【默】  难忘饰品  已装备斑驳物物品时可以装备  +66%抗性穿透  -100%抗性穿透",
+  "tags": []
+ },
+ "trinket_cultist_misstep": {
+  "title": "【谬】",
+  "desc": "【谬】  难忘饰品  已装备斑驳物物品时可以装备  +75%最大  -50%伤害",
+  "tags": []
+ },
+ "trinket_cultist_selfish_motivation": {
+  "title": "【浊】",
+  "desc": "【浊】  难忘饰品  已装备斑驳物物品时可以装备  每个负面标记+50%伤害  行动开始时：  或   或   或",
+  "tags": []
+ },
+ "trinket_cultist_sickening_silence": {
+  "title": "【染】",
+  "desc": "【染】  难忘饰品  已装备斑驳物物品时可以装备  受击时对攻击者造成： 时， 6 (3次行动)  如果没有：-200%抗性",
+  "tags": []
+ },
+ "trinket_cultist_silent_treatment": {
+  "title": "【寂】",
+  "desc": "【寂】  难忘饰品  已装备斑驳物物品时可以装备  回合开始时：  （50%） 或  x2 （20%）  自身有时，+50%暴击  自身没有时，+50%受到的伤害",
+  "tags": []
+ },
+ "trinket_cultist_snap_judgement": {
+  "title": "【迫】",
+  "desc": "【迫】  难忘饰品  已装备斑驳物物品时可以装备  行动开始时： +1（持续1场战斗）  行动开始时：  大于等于8时，添加1正面标记  行动开始时：  大于等于12时，移除， 额外行动 （10%）  行动结束时： 最后行动时，-6（持续1场战斗）",
+  "tags": []
+ },
+ "trinket_cultist_spoken_sharply": {
+  "title": "【斥】",
+  "desc": "【斥】  难忘饰品  已装备斑驳物物品时可以装备  命中时获得：  4  -33%最大",
+  "tags": []
+ },
+ "trinket_cultist_temptation": {
+  "title": "【贪】",
+  "desc": "【贪】  难忘饰品  已装备斑驳物物品时可以装备  行动开始时： 额外行动 或  1伤害  -100%抗性",
+  "tags": []
+ },
+ "trinket_cultist_wounding_words": {
+  "title": "【戾】",
+  "desc": "【戾】  难忘饰品  已装备斑驳物物品时可以装备  +50%伤害  -33%最大",
+  "tags": []
+ },
+ "trinket_cultist_key_dark_impulse_bleed_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物   解放邪祟饰品的潜能   +50%抗性  行动开始时： 自身时，+1",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_blight_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物   解放邪祟饰品的潜能  +50%抗性  行动开始时： 自身时，+1",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_burn_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能   +50%抗性  行动开始时： 自身时，+1",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_move_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能  +33%抗性  被敌人移动时获得： +1",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_disease_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能  +33%抗性  时，-25%最大",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_debuff_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能  +20%抗性  每个负面标记-10%伤害",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_stun_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能  +25%抗性  自身有时，+50%受到的伤害",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_stress_res": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能  +25%抗性  压力提升时：  1 (3次行动) （10%）",
+  "tags": [
+   "stained"
+  ]
+ },
+ "trinket_cultist_key_dark_impulse_healing": {
+  "title": "黑暗冲动",
+  "desc": "黑暗冲动  难忘饰品  斑驳物  解放邪祟饰品的潜能  +20%技能造成的治疗  -20%受到的技能治疗",
+  "tags": [
+   "stained"
+  ]
+ }
+}

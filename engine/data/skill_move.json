@@ -1,0 +1,1054 @@
+{
+ "arbalist_b_hip_shot": {
+  "self": 1,
+  "target": 0
+ },
+ "arbalist_hip_shot": {
+  "self": 1,
+  "target": 0
+ },
+ "archduke_stinger_jab": {
+  "self": -3,
+  "target": 0
+ },
+ "banquet_feed": {
+  "self": -3,
+  "target": 0
+ },
+ "bishop_strike": {
+  "self": 1,
+  "target": 0
+ },
+ "blind_shaman_ignited_bead_shotgun": {
+  "self": 0,
+  "target": 1
+ },
+ "bosun_b_heave_ho": {
+  "self": 0,
+  "target": 2
+ },
+ "bosun_b_spearfishing": {
+  "self": 0,
+  "target": -2
+ },
+ "bosun_heave_ho": {
+  "self": 0,
+  "target": 1
+ },
+ "bosun_spearfishing": {
+  "self": 0,
+  "target": -1
+ },
+ "butcher_b_hack": {
+  "self": -1,
+  "target": 0
+ },
+ "butcher_b_hook_the_meat": {
+  "self": 0,
+  "target": -2
+ },
+ "butcher_hack": {
+  "self": -1,
+  "target": 0
+ },
+ "butcher_hook_the_meat": {
+  "self": 0,
+  "target": -1
+ },
+ "cherub_brisk_bedevilment": {
+  "self": 1,
+  "target": 0
+ },
+ "chevalier_retreat": {
+  "self": 1,
+  "target": 0
+ },
+ "custode_melee_2": {
+  "self": -1,
+  "target": 0
+ },
+ "custode_momentum": {
+  "self": -1,
+  "target": 0
+ },
+ "death_shadow_of_death": {
+  "self": 1,
+  "target": 0
+ },
+ "death_shadow_of_death_flag": {
+  "self": 1,
+  "target": 0
+ },
+ "death_trample": {
+  "self": -3,
+  "target": 0
+ },
+ "death_waning_crescent": {
+  "self": 3,
+  "target": 0
+ },
+ "dinner_cart_barf": {
+  "self": 3,
+  "target": 0
+ },
+ "dinner_cart_cleaver": {
+  "self": 1,
+  "target": 0
+ },
+ "docker_melee_1": {
+  "self": 0,
+  "target": 1
+ },
+ "dog_rabid_b_mournful_howl": {
+  "self": 1,
+  "target": 0
+ },
+ "dog_rabid_bite": {
+  "self": -1,
+  "target": 0
+ },
+ "dog_rabid_fetch": {
+  "self": 1,
+  "target": -1
+ },
+ "drummer_order_defend_us": {
+  "self": 0,
+  "target": -3
+ },
+ "esquire_feed": {
+  "self": -3,
+  "target": 0
+ },
+ "evangelist_rush_judgement": {
+  "self": -1,
+  "target": 0
+ },
+ "failure_lep_attack": {
+  "self": -1,
+  "target": 0
+ },
+ "failure_maa_attack": {
+  "self": -3,
+  "target": 0
+ },
+ "fish_monger_retreat": {
+  "self": 1,
+  "target": 0
+ },
+ "flayer_ignited_move_up": {
+  "self": -2,
+  "target": 0
+ },
+ "flayer_move_up": {
+  "self": -2,
+  "target": 0
+ },
+ "flg_1_death_shadow_of_death": {
+  "self": 1,
+  "target": 0
+ },
+ "flg_1_death_soul_reaver": {
+  "self": 1,
+  "target": 0
+ },
+ "flg_1_death_trample": {
+  "self": -3,
+  "target": 0
+ },
+ "flg_1_death_waning_crescent": {
+  "self": 1,
+  "target": 0
+ },
+ "flg_punish_p1": {
+  "self": 0,
+  "target": 1
+ },
+ "flg_punish_p1_u": {
+  "self": 0,
+  "target": 2
+ },
+ "foot_soldier_shambling_thrust": {
+  "self": -1,
+  "target": 0
+ },
+ "gaunt_lost_soul_scrabble": {
+  "self": -2,
+  "target": 0
+ },
+ "gaunt_urchin_dont_hurt_me": {
+  "self": 1,
+  "target": 0
+ },
+ "gaunt_urchin_we_have_to_hide": {
+  "self": 1,
+  "target": 0
+ },
+ "gaunt_urchin_where_are_you": {
+  "self": -2,
+  "target": 0
+ },
+ "gaunt_widow_dont_look": {
+  "self": 2,
+  "target": 0
+ },
+ "gaunt_widow_look_at_me": {
+  "self": 0,
+  "target": -1
+ },
+ "gaunt_woodsman_carve_the_toy": {
+  "self": -1,
+  "target": 0
+ },
+ "gaunt_woodsman_protect_the_child": {
+  "self": -1,
+  "target": 0
+ },
+ "gr_combat_1_make_scarce": {
+  "self": 3,
+  "target": 0
+ },
+ "gr_combat_2_guard_attack": {
+  "self": 0,
+  "target": 3
+ },
+ "gr_lunge": {
+  "self": -2,
+  "target": 0
+ },
+ "gr_lunge_p2": {
+  "self": -2,
+  "target": 0
+ },
+ "gr_lunge_p2_u": {
+  "self": -2,
+  "target": 0
+ },
+ "gr_lunge_u": {
+  "self": -2,
+  "target": 0
+ },
+ "gr_pirouette": {
+  "self": 3,
+  "target": 0
+ },
+ "gr_pirouette_p2": {
+  "self": 3,
+  "target": 0
+ },
+ "gr_pirouette_p2_u": {
+  "self": 3,
+  "target": 0
+ },
+ "gr_pirouette_u": {
+  "self": 3,
+  "target": 0
+ },
+ "gr_shadow_fade": {
+  "self": 2,
+  "target": 0
+ },
+ "gr_shadow_fade_p3": {
+  "self": 2,
+  "target": 0
+ },
+ "gr_shadow_fade_p3_u": {
+  "self": 2,
+  "target": 0
+ },
+ "gr_shadow_fade_u": {
+  "self": 2,
+  "target": 0
+ },
+ "harvest_table_cruel_harvest": {
+  "self": 2,
+  "target": 0
+ },
+ "harvest_table_sapid_drippings": {
+  "self": -1,
+  "target": 0
+ },
+ "harvest_table_tantalizing_tidbit": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_p1": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_p1_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_p2": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_p2_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_p3": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_p3_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_breakthrough_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_combat_1_cower": {
+  "self": 3,
+  "target": 0
+ },
+ "hel_combat_1_rally": {
+  "self": 1,
+  "target": 0
+ },
+ "hel_iron_swan_p2": {
+  "self": 1,
+  "target": -1
+ },
+ "hel_iron_swan_p2_u": {
+  "self": 1,
+  "target": -1
+ },
+ "hel_iron_swan_p3": {
+  "self": 1,
+  "target": -2
+ },
+ "hel_iron_swan_p3_u": {
+  "self": 1,
+  "target": -2
+ },
+ "hel_toe_to_toe": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_p1": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_p1_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_p2": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_p2_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_p3": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_p3_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hel_toe_to_toe_u": {
+  "self": -1,
+  "target": 0
+ },
+ "herald_harmonious_end": {
+  "self": 1,
+  "target": 0
+ },
+ "herald_inversion": {
+  "self": 1,
+  "target": 0
+ },
+ "hwm_double_tap_p2": {
+  "self": 1,
+  "target": 0
+ },
+ "hwm_double_tap_p2_u": {
+  "self": 1,
+  "target": 0
+ },
+ "hwm_duelists_advance": {
+  "self": -1,
+  "target": 0
+ },
+ "hwm_duelists_advance_p1": {
+  "self": -2,
+  "target": 0
+ },
+ "hwm_duelists_advance_p1_u": {
+  "self": -2,
+  "target": 0
+ },
+ "hwm_duelists_advance_u": {
+  "self": -1,
+  "target": 0
+ },
+ "hwm_grapeshot_blast_p1": {
+  "self": 1,
+  "target": 0
+ },
+ "hwm_grapeshot_blast_p1_u": {
+  "self": 1,
+  "target": 0
+ },
+ "hwm_point_blank_shot": {
+  "self": 1,
+  "target": 1
+ },
+ "hwm_point_blank_shot_p1": {
+  "self": 1,
+  "target": 2
+ },
+ "hwm_point_blank_shot_p1_u": {
+  "self": 1,
+  "target": 2
+ },
+ "hwm_point_blank_shot_p2": {
+  "self": 2,
+  "target": 2
+ },
+ "hwm_point_blank_shot_p2_u": {
+  "self": 2,
+  "target": 2
+ },
+ "hwm_point_blank_shot_u": {
+  "self": 1,
+  "target": 1
+ },
+ "hwy_combat_1_guard_strike": {
+  "self": -1,
+  "target": 1
+ },
+ "hwy_combat_1_guard_take_deep_breath": {
+  "self": 3,
+  "target": 0
+ },
+ "hwy_combat_1_lungepunch": {
+  "self": -3,
+  "target": 0
+ },
+ "hwy_combat_2_duelist_advance_story": {
+  "self": -3,
+  "target": 0
+ },
+ "hwy_combat_2_retreat_into_bushes": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_battle_ballad": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_p1": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_p1_u": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_p2": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_p2_u": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_p3": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_p3_u": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_battle_ballad_u": {
+  "self": 0,
+  "target": -2
+ },
+ "jes_combat_2_crescendo": {
+  "self": -1,
+  "target": 0
+ },
+ "jes_combat_2_diminuendo": {
+  "self": 1,
+  "target": 0
+ },
+ "jes_echoing_march": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_echoing_march_p1": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_echoing_march_p1_u": {
+  "self": 0,
+  "target": 2
+ },
+ "jes_echoing_march_p3": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_echoing_march_p3_u": {
+  "self": 0,
+  "target": -1
+ },
+ "jes_echoing_march_u": {
+  "self": 0,
+  "target": -2
+ },
+ "jes_encore_p1": {
+  "self": 2,
+  "target": 0
+ },
+ "jes_encore_p1_u": {
+  "self": 2,
+  "target": 0
+ },
+ "jes_encore_p2": {
+  "self": -1,
+  "target": 0
+ },
+ "jes_encore_p2_u": {
+  "self": -1,
+  "target": 0
+ },
+ "jes_fade_to_black": {
+  "self": 1,
+  "target": 0
+ },
+ "jes_fade_to_black_u": {
+  "self": 1,
+  "target": 0
+ },
+ "jes_finale": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_finale_p1": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_finale_p1_u": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_finale_p2": {
+  "self": 2,
+  "target": 0
+ },
+ "jes_finale_p2_u": {
+  "self": 2,
+  "target": 0
+ },
+ "jes_finale_p3": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_finale_p3_u": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_finale_u": {
+  "self": 3,
+  "target": 0
+ },
+ "jes_play_me_out": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_p1": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_p1_u": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_p2": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_p2_u": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_p3": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_p3_u": {
+  "self": 0,
+  "target": 1
+ },
+ "jes_play_me_out_u": {
+  "self": 0,
+  "target": 2
+ },
+ "jes_razors_wit": {
+  "self": -1,
+  "target": 0
+ },
+ "jes_razors_wit_u": {
+  "self": -1,
+  "target": 0
+ },
+ "jes_solo": {
+  "self": -3,
+  "target": 0
+ },
+ "jes_solo_p1": {
+  "self": -2,
+  "target": 0
+ },
+ "jes_solo_p1_u": {
+  "self": -2,
+  "target": 0
+ },
+ "jes_solo_p2": {
+  "self": -3,
+  "target": 0
+ },
+ "jes_solo_p2_u": {
+  "self": -3,
+  "target": 0
+ },
+ "jes_solo_p3": {
+  "self": -3,
+  "target": 0
+ },
+ "jes_solo_p3_u": {
+  "self": -3,
+  "target": 0
+ },
+ "jes_solo_u": {
+  "self": -3,
+  "target": 0
+ },
+ "knight_b_have_at_you": {
+  "self": -3,
+  "target": 0
+ },
+ "knight_b_riposte": {
+  "self": 0,
+  "target": 1
+ },
+ "knight_have_at_you": {
+  "self": -3,
+  "target": 0
+ },
+ "lady_mothers_embrace": {
+  "self": 0,
+  "target": -1
+ },
+ "lep_purge": {
+  "self": 0,
+  "target": 3
+ },
+ "lep_purge_u": {
+  "self": 0,
+  "target": 3
+ },
+ "leper_combat_1_advisor_occlusion": {
+  "self": 0,
+  "target": 1
+ },
+ "leper_combat_1_embrace": {
+  "self": 3,
+  "target": 0
+ },
+ "leper_combat_1_ministrate": {
+  "self": -3,
+  "target": 0
+ },
+ "leper_combat_1_royal_aura": {
+  "self": -2,
+  "target": 0
+ },
+ "leper_combat_2_advisor_furtive_skulking": {
+  "self": 1,
+  "target": 0
+ },
+ "leper_combat_2_advisor_stab_of_betrayal": {
+  "self": 3,
+  "target": 0
+ },
+ "librarian_backdraft": {
+  "self": 3,
+  "target": 0
+ },
+ "livestock_b_battering_ram": {
+  "self": -2,
+  "target": 1
+ },
+ "livestock_b_beast_of_burden": {
+  "self": 0,
+  "target": -1
+ },
+ "livestock_b_kick": {
+  "self": 0,
+  "target": 1
+ },
+ "livestock_b_king_of_all": {
+  "self": 3,
+  "target": 0
+ },
+ "livestock_battering_ram": {
+  "self": -3,
+  "target": 1
+ },
+ "livestock_beast_of_burden": {
+  "self": 0,
+  "target": -1
+ },
+ "livestock_kick": {
+  "self": 0,
+  "target": 1
+ },
+ "lord_fleshy_backhand": {
+  "self": 0,
+  "target": 2
+ },
+ "lost_soul_patient_scrabble": {
+  "self": -2,
+  "target": 0
+ },
+ "lungs_core_dying_light": {
+  "self": 0,
+  "target": 2
+ },
+ "maa_combat_1_attack": {
+  "self": 0,
+  "target": -3
+ },
+ "maa_combat_1_retreat": {
+  "self": 0,
+  "target": 3
+ },
+ "maa_hold_the_line": {
+  "self": -3,
+  "target": 0
+ },
+ "maa_hold_the_line_p2": {
+  "self": -3,
+  "target": 0
+ },
+ "maa_hold_the_line_p2_u": {
+  "self": -3,
+  "target": 0
+ },
+ "maa_hold_the_line_u": {
+  "self": -3,
+  "target": 0
+ },
+ "maa_rampart": {
+  "self": -1,
+  "target": 1
+ },
+ "maa_rampart_p2": {
+  "self": -1,
+  "target": 1
+ },
+ "maa_rampart_p2_u": {
+  "self": -1,
+  "target": 2
+ },
+ "maa_rampart_u": {
+  "self": -1,
+  "target": 1
+ },
+ "maa_strategic_withdrawal": {
+  "self": 1,
+  "target": 0
+ },
+ "maa_strategic_withdrawal_u": {
+  "self": 1,
+  "target": 0
+ },
+ "maid_backsplash": {
+  "self": 1,
+  "target": 0
+ },
+ "makeshift_javelin": {
+  "self": 0,
+  "target": 3
+ },
+ "matres_sequelae_attack_1": {
+  "self": 0,
+  "target": 2
+ },
+ "matres_sequelae_attack_2": {
+  "self": 0,
+  "target": -1
+ },
+ "meat_hook_hook_pull": {
+  "self": 0,
+  "target": -2
+ },
+ "meat_hook_hook_pull_berserk": {
+  "self": 0,
+  "target": -2
+ },
+ "militia_ranged_a_melee": {
+  "self": 1,
+  "target": 0
+ },
+ "militia_ranged_b_melee": {
+  "self": 1,
+  "target": 0
+ },
+ "militia_ranged_c_melee": {
+  "self": 1,
+  "target": 0
+ },
+ "mothers_familiar_bite": {
+  "self": -1,
+  "target": 0
+ },
+ "mothers_familiar_web": {
+  "self": 0,
+  "target": -3
+ },
+ "mothers_spitter_spit": {
+  "self": -1,
+  "target": 0
+ },
+ "occ_binding_shadows_p3": {
+  "self": -1,
+  "target": 0
+ },
+ "occ_binding_shadows_p3_u": {
+  "self": -1,
+  "target": 0
+ },
+ "occ_daemons_pull": {
+  "self": 0,
+  "target": -2
+ },
+ "occ_daemons_pull_u": {
+  "self": 0,
+  "target": -3
+ },
+ "occ_sacrificial_stab_p3": {
+  "self": 1,
+  "target": 0
+ },
+ "occ_sacrificial_stab_p3_u": {
+  "self": 1,
+  "target": 0
+ },
+ "pd_disorienting_blast_p1": {
+  "self": 0,
+  "target": 1
+ },
+ "pd_disorienting_blast_p1_u": {
+  "self": 0,
+  "target": 2
+ },
+ "pillager_antiquarian_knife": {
+  "self": 1,
+  "target": 0
+ },
+ "pillager_antiquarian_vapor_attack_2": {
+  "self": 1,
+  "target": 0
+ },
+ "pillager_artillery_loading": {
+  "self": 1,
+  "target": 0
+ },
+ "pillager_firemouth_melee": {
+  "self": 1,
+  "target": 0
+ },
+ "pillager_melee_wild_swing": {
+  "self": -2,
+  "target": 0
+ },
+ "pillager_ranged_frantic_retreat": {
+  "self": 2,
+  "target": 0
+ },
+ "pillager_ranged_front_mortar": {
+  "self": 0,
+  "target": 1
+ },
+ "pit_fighter_punch": {
+  "self": -1,
+  "target": 0
+ },
+ "pit_fighter_uppercut": {
+  "self": 0,
+  "target": 1
+ },
+ "rot_claw_elite_slam": {
+  "self": -1,
+  "target": 2
+ },
+ "rot_claw_slam": {
+  "self": -1,
+  "target": 2
+ },
+ "rot_claw_slam_berserk": {
+  "self": -1,
+  "target": 2
+ },
+ "run_combat_1_nun_brand": {
+  "self": 0,
+  "target": 3
+ },
+ "run_combat_1_pick_pocket": {
+  "self": 3,
+  "target": 0
+ },
+ "run_dragonfly": {
+  "self": 1,
+  "target": 0
+ },
+ "run_dragonfly_p1": {
+  "self": 1,
+  "target": 0
+ },
+ "run_dragonfly_p1_u": {
+  "self": 1,
+  "target": 0
+ },
+ "run_dragonfly_p3": {
+  "self": 1,
+  "target": 0
+ },
+ "run_dragonfly_p3_u": {
+  "self": 1,
+  "target": 0
+ },
+ "run_dragonfly_u": {
+  "self": 1,
+  "target": 0
+ },
+ "run_ransack": {
+  "self": -1,
+  "target": -1
+ },
+ "run_ransack_p2": {
+  "self": -1,
+  "target": -1
+ },
+ "run_ransack_p2_u": {
+  "self": -1,
+  "target": -2
+ },
+ "run_ransack_p3": {
+  "self": -1,
+  "target": -1
+ },
+ "run_ransack_p3_u": {
+  "self": -1,
+  "target": -2
+ },
+ "run_ransack_u": {
+  "self": -1,
+  "target": -2
+ },
+ "run_run_and_hide": {
+  "self": 1,
+  "target": 0
+ },
+ "run_run_and_hide_u": {
+  "self": 1,
+  "target": 0
+ },
+ "run_smokescreen_p2": {
+  "self": -1,
+  "target": 0
+ },
+ "run_smokescreen_p2_u": {
+  "self": -1,
+  "target": 0
+ },
+ "sacrificial_the_flame_spreads": {
+  "self": -1,
+  "target": 0
+ },
+ "swine_brute_b_savage_gore": {
+  "self": -3,
+  "target": 0
+ },
+ "swine_brute_headbutt": {
+  "self": -3,
+  "target": 0
+ },
+ "swine_skiver_b_retreat": {
+  "self": 3,
+  "target": 0
+ },
+ "swine_skiver_b_throw_1": {
+  "self": -1,
+  "target": 3
+ },
+ "swine_skiver_retreat": {
+  "self": 3,
+  "target": 0
+ },
+ "swine_skiver_throw_1": {
+  "self": -1,
+  "target": 2
+ },
+ "swine_skulker_melee_2": {
+  "self": 0,
+  "target": -1
+ },
+ "sycophant_vomit": {
+  "self": -1,
+  "target": 0
+ },
+ "sycophant_vomit_aoe": {
+  "self": 1,
+  "target": 0
+ },
+ "torso_hammer": {
+  "self": 0,
+  "target": 1
+ },
+ "tribewalker_roar": {
+  "self": -1,
+  "target": 0
+ },
+ "tribewalker_roar_berserk": {
+  "self": -1,
+  "target": 0
+ },
+ "ves_1_satisfy_curiosity": {
+  "self": -2,
+  "target": 0
+ },
+ "ves_2_fend": {
+  "self": -1,
+  "target": 0
+ },
+ "whipper_b_ligature": {
+  "self": 0,
+  "target": -2
+ },
+ "whipper_ignited_whip_trip": {
+  "self": 0,
+  "target": -1
+ },
+ "whipper_smoke_em": {
+  "self": -2,
+  "target": 0
+ },
+ "whipper_whip_trip": {
+  "self": 0,
+  "target": -1
+ }
+}
